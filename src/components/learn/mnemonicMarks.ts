@@ -82,9 +82,9 @@ export const MNEMONIC_MARKS: Record<string, MnemonicMark[]> = {
   ],
   // -.-  dah on the upper arm, dit at the crotch, dah on the lower arm
   K: [
-    rDash(51, 50, 20, -40),
+    rDash(54, 50, 20, -44),
     { kind: 'dot', cx: 30, cy: 66 },
-    rDash(57, 74, 20, 42),
+    rDash(60, 74, 20, 46),
   ],
   // .-..  dit at the top, dah down the stem, two dits close together at the foot
   L: [
@@ -109,7 +109,7 @@ export const MNEMONIC_MARKS: Record<string, MnemonicMark[]> = {
   // --.-  dashes flow down the left of the ring into the dot and the tail
   Q: [
     rDash(35, 40, 20, 126),
-    vDash(30, 52, 20),
+    vDash(27, 52, 20),
     { kind: 'dot', cx: 33, cy: 84 },
     vDash(53, 91, 20),
   ],
