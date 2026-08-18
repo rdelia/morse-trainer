@@ -1,0 +1,18 @@
+{
+  "title": "Reference",
+  "subtitle": "Alphabet, punctuation, and prosigns.",
+  "letters": "Letters",
+  "digits": "Digits",
+  "punctuation": "Punctuation",
+  "prosigns": "Prosigns",
+  "prosignNotes": {
+    "AR": "End of message",
+    "SK": "End of contact",
+    "BT": "Break / separator",
+    "KN": "Invite specific station only",
+    "BK": "Break in"
+  },
+  "tapToHear": "Tap a character to hear it.",
+  "mnemonics": "Mnemonic table",
+  "mnemonicsHint": "Dots and dashes drawn on each letter. Tap to hear it."
+}

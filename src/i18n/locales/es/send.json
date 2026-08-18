@@ -1,0 +1,16 @@
+{
+  "title": "Transmitir",
+  "subtitle": "Tecla con espacio, ratón o toque. El timing se convierte en Morse.",
+  "hold": "Mantén pulsado para transmitir",
+  "decoded": "Decodificado",
+  "clear": "Borrar",
+  "targetPrompt": "Intenta transmitir: {{target}}",
+  "newTarget": "Nuevo objetivo",
+  "match": "¡Coincide!",
+  "hint": "Mantén Espacio o la paleta. Suelta entre elementos. Pausa para cerrar un carácter.",
+  "mute": "Silenciar audio",
+  "unmute": "Activar audio",
+  "showCode": "Ver el código",
+  "hideCode": "Ocultar el código",
+  "code": "Código de {{target}}"
+}

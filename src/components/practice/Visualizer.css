@@ -1,0 +1,38 @@
+.viz {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 0.35rem;
+  height: 48px;
+  margin: 0.75rem 0;
+}
+
+.viz span {
+  width: 6px;
+  height: 12px;
+  border-radius: 2px;
+  background: var(--border-strong);
+  transition: height 0.12s ease, background 0.12s ease;
+}
+
+.viz--on span {
+  background: var(--amber);
+  animation: viz-pulse 0.35s ease-in-out infinite alternate;
+}
+
+.viz--on span:nth-child(1) { animation-delay: 0s; height: 20px; }
+.viz--on span:nth-child(2) { animation-delay: 0.05s; height: 36px; }
+.viz--on span:nth-child(3) { animation-delay: 0.1s; height: 48px; }
+.viz--on span:nth-child(4) { animation-delay: 0.05s; height: 32px; }
+.viz--on span:nth-child(5) { animation-delay: 0s; height: 18px; }
+
+@keyframes viz-pulse {
+  from { opacity: 0.7; transform: scaleY(0.92); }
+  to { opacity: 1; transform: scaleY(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .viz--on span {
+    animation: none;
+  }
+}

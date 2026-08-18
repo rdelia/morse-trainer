@@ -1,0 +1,154 @@
+.history {
+  max-width: 42rem;
+}
+
+.history-intro {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+}
+
+.history-toc {
+  margin: 0 0 2rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.history-toc h2 {
+  font-size: 0.95rem;
+  color: var(--amber);
+  margin-bottom: 0.65rem;
+}
+
+.history-toc ol {
+  margin: 0;
+  padding-left: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.history-toc a {
+  color: var(--teal);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+
+.history-toc a:hover {
+  text-decoration: underline;
+}
+
+.history-section {
+  margin-bottom: 2.25rem;
+  padding-top: 0.35rem;
+  scroll-margin-top: 4.5rem;
+}
+
+.history-section h2 {
+  color: var(--amber);
+  margin-bottom: 0.75rem;
+}
+
+.history-section p {
+  line-height: 1.7;
+}
+
+.history-links {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  margin: 0.85rem 0 0;
+}
+
+.history-links__label {
+  display: inline-block;
+  margin-right: 0.4rem;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.history-links a {
+  color: var(--teal);
+  text-decoration: none;
+}
+
+.history-links a:hover {
+  text-decoration: underline;
+}
+
+.history-facts {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.history-fact {
+  padding: 0.95rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.history-fact h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.05rem;
+  color: var(--amber);
+}
+
+.history-fact p {
+  margin-bottom: 0.35rem;
+}
+
+.history-acronym-group {
+  margin-top: 1.35rem;
+}
+
+.history-acronym-group h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.08rem;
+  color: var(--amber);
+}
+
+.history-acronyms {
+  margin: 0.65rem 0 0;
+  padding: 0.15rem 0;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.history-acronym {
+  display: grid;
+  grid-template-columns: 7.25rem 1fr;
+  gap: 0.7rem;
+  margin: 0;
+  padding: 0.55rem 0.9rem;
+  border-top: 1px solid var(--border);
+}
+
+.history-acronym:first-child {
+  border-top: none;
+}
+
+.history-acronym dt {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 0.92rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--amber);
+}
+
+.history-acronym dd {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.history-note {
+  margin-top: 0.5rem;
+  font-size: 0.82rem;
+  line-height: 1.55;
+}

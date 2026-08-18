@@ -1,0 +1,18 @@
+{
+  "title": "Referencia",
+  "subtitle": "Alfabeto, puntuación y prosigns.",
+  "letters": "Letras",
+  "digits": "Dígitos",
+  "punctuation": "Puntuación",
+  "prosigns": "Prosigns",
+  "prosignNotes": {
+    "AR": "Fin de mensaje",
+    "SK": "Fin de contacto",
+    "BT": "Pausa / separador",
+    "KN": "Invita solo a estación específica",
+    "BK": "Break in"
+  },
+  "tapToHear": "Toca un carácter para oírlo.",
+  "mnemonics": "Tabla mnemónica",
+  "mnemonicsHint": "Puntos y rayas dibujados sobre cada letra. Toca para oírla."
+}

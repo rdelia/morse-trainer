@@ -1,0 +1,12 @@
+{
+  "title": "Progrés",
+  "subtitle": "Precisió, sessions i caràcters fluixos.",
+  "mastered": "Caràcters sòlids",
+  "weak": "Per a millorar",
+  "recent": "Sessions recents",
+  "noSessions": "Encara no hi ha cap sessió: completa una lliçó o un exercici.",
+  "lessonsDone": "Lliçons completades",
+  "overall": "Precisió global (EWMA)",
+  "mode": "Modalitat",
+  "charsHeard": "Caràcters escoltats"
+}

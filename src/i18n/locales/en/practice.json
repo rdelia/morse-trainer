@@ -1,0 +1,32 @@
+{
+  "title": "Practice",
+  "subtitle": "Free drills beyond the lesson path.",
+  "modes": {
+    "groups": "Random groups",
+    "groupsDesc": "Classic 5-character Koch groups.",
+    "words": "Words",
+    "wordsDesc": "Words from your language dictionary.",
+    "callsigns": "Callsigns",
+    "callsignsDesc": "Realistic amateur callsign patterns.",
+    "qso": "QSO",
+    "qsoDesc": "Copy a short exchange.",
+    "warmup": "Ear warm-up",
+    "warmupDesc": "Bias toward your weak characters.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Listen to a full word, then type."
+  },
+  "qsoNotes": {
+    "basic": "A standard CQ, report, name/QTH, and 73 SK exchange.",
+    "short": "A minimal three-line QSO."
+  },
+  "reveal": "Pattern: {{pattern}}",
+  "revealSolution": "Reveal",
+  "solution": "Solution",
+  "transcription": "Morse",
+  "target": "Target",
+  "heard": "You copied",
+  "startSession": "Start session",
+  "nextSession": "Next session",
+  "groupsOf": "{{n}} groups of 5",
+  "line": "Line {{n}}"
+}

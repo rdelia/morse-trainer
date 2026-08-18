@@ -1,0 +1,32 @@
+{
+  "title": "Practicar",
+  "subtitle": "Exercicis lliures, sense seguir l'itinerari.",
+  "modes": {
+    "groups": "Grups aleatoris",
+    "groupsDesc": "Els clàssics grups Koch de 5 caràcters.",
+    "words": "Paraules",
+    "wordsDesc": "Paraules en el teu idioma.",
+    "callsigns": "Indicatius",
+    "callsignsDesc": "Indicatius de radioaficionat realistes.",
+    "qso": "QSO",
+    "qsoDesc": "Copia un intercanvi breu en ràdio.",
+    "warmup": "Escalfament",
+    "warmupDesc": "Insistix en els caràcters que falles més sovint.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Escolta la paraula sencera i després escriu-la."
+  },
+  "qsoNotes": {
+    "basic": "CQ estàndard, informe, nom/QTH i 73 SK.",
+    "short": "QSO mínim en tres línies."
+  },
+  "reveal": "Patró: {{pattern}}",
+  "revealSolution": "Mostra la solució",
+  "solution": "Solució",
+  "transcription": "Morse",
+  "target": "Objectiu",
+  "heard": "Has copiat",
+  "startSession": "Comença la sessió",
+  "nextSession": "Sessió següent",
+  "groupsOf": "{{n}} grups de 5",
+  "line": "Línia {{n}}"
+}

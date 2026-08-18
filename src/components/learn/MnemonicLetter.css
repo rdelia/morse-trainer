@@ -1,0 +1,36 @@
+.mnemonic-letter {
+  display: flex;
+  justify-content: center;
+  margin: 0.15rem 0 0.25rem;
+}
+
+.mnemonic-letter__svg {
+  width: min(220px, 58vw);
+  height: auto;
+  overflow: visible;
+}
+
+.mnemonic-letter--compact {
+  margin: 0;
+  width: 100%;
+}
+
+.mnemonic-letter--compact .mnemonic-letter__svg {
+  width: 100%;
+}
+
+.mnemonic-letter__glyph {
+  fill: var(--yellow);
+  opacity: 0.95;
+}
+
+.mnemonic-letter__dot {
+  fill: var(--teal);
+}
+
+.mnemonic-letter__dash {
+  fill: none;
+  stroke: var(--teal);
+  stroke-width: 5.5;
+  stroke-linecap: butt;
+}

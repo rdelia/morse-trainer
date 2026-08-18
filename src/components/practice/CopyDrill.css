@@ -1,0 +1,148 @@
+.drill {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.drill__meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.drill__controls {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.drill__form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.drill__input {
+  font-family: var(--font-mono);
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-strong);
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--amber);
+  border-radius: 4px;
+  outline: none;
+}
+
+.drill__input:focus {
+  border-color: var(--teal);
+  box-shadow: 0 0 0 2px rgba(45, 166, 153, 0.25);
+}
+
+.drill__choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.drill__choices .muted {
+  width: 100%;
+  margin: 0 0 0.75rem;
+  text-align: center;
+}
+
+.choice-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.btn--choice {
+  font-family: var(--font-mono);
+  font-size: 1.25rem;
+  min-height: 52px;
+  min-width: 64px;
+}
+
+.drill__next-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  width: 100%;
+}
+
+.drill--done {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.drill__stat {
+  font-family: var(--font-mono);
+  font-size: 1.5rem;
+  color: var(--amber);
+}
+
+.drill__pass {
+  color: var(--teal);
+  font-weight: 600;
+}
+
+.drill__fail {
+  color: #f0a090;
+}
+
+.drill__reveal {
+  margin-top: 0.75rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.28);
+  text-align: left;
+}
+
+.drill__reveal-label {
+  margin: 0 0 0.2rem;
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.drill__reveal-text + .drill__reveal-label {
+  margin-top: 0.75rem;
+}
+
+.drill__reveal-text {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 1.15rem;
+  color: var(--amber);
+  letter-spacing: 0.06em;
+  word-break: break-word;
+}
+
+.drill__reveal-morse {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--teal);
+  letter-spacing: 0.08em;
+  word-break: break-word;
+}

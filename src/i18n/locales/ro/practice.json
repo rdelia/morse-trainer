@@ -1,0 +1,32 @@
+{
+  "title": "Exersează",
+  "subtitle": "Exerciții libere, în afara parcursului.",
+  "modes": {
+    "groups": "Grupuri aleatorii",
+    "groupsDesc": "Clasicele grupuri Koch de 5 caractere.",
+    "words": "Cuvinte",
+    "wordsDesc": "Cuvinte în limba ta.",
+    "callsigns": "Indicative",
+    "callsignsDesc": "Indicative de radioamator realiste.",
+    "qso": "QSO",
+    "qsoDesc": "Copiază un schimb scurt de mesaje.",
+    "warmup": "Încălzire",
+    "warmupDesc": "Insistă pe caracterele pe care le greșești des.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Ascultă cuvântul întreg, apoi scrie-l."
+  },
+  "qsoNotes": {
+    "basic": "CQ standard, raport, nume/QTH și 73 SK.",
+    "short": "QSO minim, în trei rânduri."
+  },
+  "reveal": "Model: {{pattern}}",
+  "revealSolution": "Arată soluția",
+  "solution": "Soluție",
+  "transcription": "Morse",
+  "target": "Țintă",
+  "heard": "Ai copiat",
+  "startSession": "Începe sesiunea",
+  "nextSession": "Sesiunea următoare",
+  "groupsOf": "{{n}} grupuri de 5",
+  "line": "Rândul {{n}}"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Transmite",
+  "subtitle": "Manipulează cu bara de spațiu, mouse-ul sau atingerea: ritmul tău devine Morse.",
+  "hold": "Ține apăsat pentru a transmite",
+  "decoded": "Decodificat",
+  "clear": "Șterge",
+  "targetPrompt": "Încearcă să transmiți: {{target}}",
+  "newTarget": "Țintă nouă",
+  "match": "Exact!",
+  "hint": "Ține apăsat Spațiu sau butonul de pe ecran. Eliberează între semne; o pauză mai lungă încheie caracterul.",
+  "mute": "Oprește sunetul",
+  "unmute": "Pornește sunetul",
+  "showCode": "Arată codul",
+  "hideCode": "Ascunde codul",
+  "code": "Codul pentru {{target}}"
+}

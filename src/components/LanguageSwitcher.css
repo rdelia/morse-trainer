@@ -1,0 +1,38 @@
+.lang-switch {
+  display: inline-flex;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.lang-switch button {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  padding: 0.35rem 0.55rem;
+  min-width: 3rem;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  border-radius: 2px;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: clip;
+}
+
+.lang-switch button:hover {
+  color: var(--text);
+  border-color: var(--amber);
+}
+
+.lang-switch button.is-active {
+  color: var(--bg);
+  background: var(--amber);
+  border-color: var(--amber);
+}
+
+.lang-switch--compact button {
+  padding: 0.25rem 0.4rem;
+  font-size: 0.7rem;
+}

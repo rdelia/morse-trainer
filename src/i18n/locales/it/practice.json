@@ -1,0 +1,32 @@
+{
+  "title": "Pratica",
+  "subtitle": "Esercizi liberi, senza seguire il percorso.",
+  "modes": {
+    "groups": "Gruppi casuali",
+    "groupsDesc": "I classici gruppi Koch da 5 caratteri.",
+    "words": "Parole",
+    "wordsDesc": "Parole nella tua lingua.",
+    "callsigns": "Nominativi",
+    "callsignsDesc": "Nominativi radioamatoriali realistici.",
+    "qso": "QSO",
+    "qsoDesc": "Copia un breve scambio in radio.",
+    "warmup": "Riscaldamento",
+    "warmupDesc": "Insiste sui caratteri che sbagli più spesso.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Ascolta la parola intera, poi scrivila."
+  },
+  "qsoNotes": {
+    "basic": "CQ standard, rapporto, nome/QTH e 73 SK.",
+    "short": "QSO minimo in tre righe."
+  },
+  "reveal": "Schema: {{pattern}}",
+  "revealSolution": "Mostra la soluzione",
+  "solution": "Soluzione",
+  "transcription": "Morse",
+  "target": "Obiettivo",
+  "heard": "Hai copiato",
+  "startSession": "Inizia sessione",
+  "nextSession": "Sessione successiva",
+  "groupsOf": "{{n}} gruppi da 5",
+  "line": "Riga {{n}}"
+}

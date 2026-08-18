@@ -1,0 +1,12 @@
+{
+  "title": "Progress",
+  "subtitle": "Accuracy, sessions, and weak characters.",
+  "mastered": "Strong characters",
+  "weak": "Needs work",
+  "recent": "Recent sessions",
+  "noSessions": "No sessions yet — complete a lesson or practice drill.",
+  "lessonsDone": "Lessons completed",
+  "overall": "Overall accuracy (EWMA)",
+  "mode": "Mode",
+  "charsHeard": "Characters heard"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Transmetre",
+  "subtitle": "Manipula amb la barra espaiadora, el ratolí o el tacte: el teu ritme es torna Morse.",
+  "hold": "Mantín premut per a transmetre",
+  "decoded": "Descodificat",
+  "clear": "Neteja",
+  "targetPrompt": "Prova a transmetre: {{target}}",
+  "newTarget": "Nou objectiu",
+  "match": "Exacte!",
+  "hint": "Mantín premut Espai o el botó de la pantalla. Solta entre una marca i l'altra; una pausa més llarga tanca el caràcter.",
+  "mute": "Silencia el so",
+  "unmute": "Activa el so",
+  "showCode": "Mostra el codi",
+  "hideCode": "Amaga el codi",
+  "code": "Codi de {{target}}"
+}

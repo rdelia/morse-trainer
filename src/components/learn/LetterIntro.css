@@ -1,0 +1,84 @@
+.letter-intro {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 520px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.letter-intro__meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.letter-intro__char {
+  font-family: var(--font-display);
+  font-size: clamp(3.2rem, 12vw, 5rem);
+  font-weight: 800;
+  color: var(--amber);
+  margin: 0.25rem 0 0;
+  letter-spacing: -0.03em;
+  line-height: 1;
+}
+
+.letter-intro__marks {
+  font-family: var(--font-mono);
+  font-size: clamp(2.25rem, 7vw, 3.25rem);
+  letter-spacing: 0.32em;
+  color: var(--teal);
+  margin: 0.15rem 0 0.5rem;
+  line-height: 1.2;
+}
+
+.letter-intro__explain {
+  font-size: 1.05rem;
+  margin: 0 0 0.25rem;
+}
+
+.letter-intro__controls,
+.letter-intro__nav {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.letter-intro__nav {
+  margin-top: 0.75rem;
+}
+
+.letter-intro__steps {
+  display: flex;
+  gap: 0.35rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+.letter-intro__step {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  min-width: 2.1rem;
+  padding: 0.3rem 0.45rem;
+  border: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.25);
+  color: var(--muted);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.letter-intro__step:hover {
+  border-color: var(--amber);
+  color: var(--text);
+}
+
+.letter-intro__step.is-current {
+  border-color: var(--teal);
+  color: var(--teal);
+}

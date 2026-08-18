@@ -1,0 +1,285 @@
+{
+  "title": "Wiki despre codul Morse",
+  "subtitle": "Istoria codului, plus semnalele de primejdie, prosign-urile, codurile Q și prescurtările de radioamator pe care le auzi în CW.",
+  "intro": "Codul Morse nu este o piesă de muzeu. Este un sistem complet de scriere pentru sunet: semne scurte, semne lungi și tăceri măsurate. Această pagină este o istorie ghidată a acelui sistem — cine l-a construit, cum s-a schimbat, de ce SOS nu este un acronim și de ce operatorii îl folosesc încă în eter. Fiecare secțiune trimite la Wikipedia, ca să poți aprofunda.",
+  "toc": "Pe această pagină",
+  "wiki": "Wikipedia",
+  "sourcesNote": "Articolele de mai jos sunt puncte de plecare pe Wikipedia. Conținutul Wikipedia este disponibil sub licența CC BY-SA; urmează fiecare link pentru citări și lecturi suplimentare.",
+  "sections": [
+    {
+      "title": "Înainte de fir: telegrafele optice",
+      "paragraphs": [
+        "Cu mult înainte de electricitate, statele mutau mesaje mai repede decât un cal. În anii 1790, turnurile cu semafor ale lui Claude Chappe traversau Franța cu brațe pivotante pe care funcționarii le citeau cu luneta. Lanțuri asemănătoare au apărut în Marea Britanie, Suedia și Prusia. Ideea exista deja: să codifici limba într-un set mic de semne vizibile și apoi să retransmiți acele semne din stație în stație.",
+        "Telegrafele optice erau scumpe, dependente de vreme și aflate în proprietatea statului. Secolului al XIX-lea îi mai trebuia un cod pe care un singur fir — și, mai târziu, o undă radio — să îl poată purta zi și noapte, în ceață și în furtună, cu nimic mai mult decât pornit și oprit."
+      ],
+      "links": [
+        { "label": "Claude Chappe", "href": "https://ro.wikipedia.org/wiki/Claude_Chappe" },
+        { "label": "Telegraf optic", "href": "https://en.wikipedia.org/wiki/Optical_telegraph" },
+        { "label": "Semafor (semnalizare)", "href": "https://en.wikipedia.org/wiki/Semaphore" }
+      ]
+    },
+    {
+      "title": "Morse, Vail și telegraful electric",
+      "paragraphs": [
+        "Samuel Finley Breese Morse (1791–1872) era pictor și a devenit obsedat de ideea de a trimite informație printr-un fir după o conversație despre electromagnetism, purtată în 1832 în timpul unei traversări a Atlanticului. Nu era electrician de formație. La Universitatea din New York a lucrat cu savantul Leonard Gale, care i-a arătat că erau necesare multe elemente de baterie și multe spire de sârmă pentru a împinge un semnal la o distanță utilă.",
+        "Instrumentul practic și o bună parte din codul american original au venit de la Alfred Vail, partenerul lui Morse din 1837. Vail a perfecționat registratorul care imprima puncte și linii pe bandă de hârtie, a ajutat la proiectarea manipulatorului de transmisie și a pledat pentru un alfabet compact, în care literele englezești frecvente foloseau secvențe mai scurte. Cine a „inventat” codul Morse se discută încă; nu se discută că sistemul public care a urmat a purtat numele lui Morse și ingineria lui Vail.",
+        "După ani de politică și de legi picate, Statele Unite au finanțat o linie experimentală. Pe 24 mai 1844, Morse a stat în sala Curții Supreme din Capitoliu și a trimis către stația Mount Clare din Baltimore un verset biblic ales de Annie Ellsworth: „What hath God wrought” — „Ce a făcut Dumnezeu”. Telegraful electric avea o naștere publică."
+      ],
+      "links": [
+        { "label": "Samuel Morse", "href": "https://ro.wikipedia.org/wiki/Samuel_Morse" },
+        { "label": "Alfred Vail", "href": "https://en.wikipedia.org/wiki/Alfred_Vail" },
+        { "label": "Telegraful electric", "href": "https://ro.wikipedia.org/wiki/Telegraf" },
+        { "label": "What hath God wrought", "href": "https://en.wikipedia.org/wiki/What_hath_God_wrought" },
+        { "label": "Cod Morse", "href": "https://ro.wikipedia.org/wiki/Cod_Morse" }
+      ]
+    },
+    {
+      "title": "Două coduri Morse: american și internațional",
+      "paragraphs": [
+        "Codul folosit pe acea primă linie americană nu este codul pe care îl predă acest antrenor. Morse american (numit uneori și Morse feroviar) folosea spații suplimentare în interiorul unor litere — C, O, R, Y și Z erau „litere spațiate” — și păstra secvențe ciudate pentru cifre. A supraviețuit decenii pe liniile terestre și pe căile ferate din America de Nord, pentru că operatorii îl știau deja.",
+        "În 1848, Friedrich Clemens Gerke a revizuit alfabetul pentru telegraful Hamburg–Cuxhaven. A eliminat spațiile din interiorul caracterelor, a regularizat duratele și a refăcut mai multe litere. Administrațiile germane, apoi cele europene, au adoptat variante ale schemei lui Gerke. Un congres internațional de telegrafie de la Paris (1865) și, mai târziu, Uniunea Internațională a Telecomunicațiilor au standardizat ceea ce numim astăzi cod Morse internațional.",
+        "Dacă înveți Morse astăzi pentru radioamatorism, pentru istoria aviației sau pentru această aplicație, înveți alfabetul internațional, nu pe cel american din 1844. Amestecul celor două este un mod clasic de a recepționa aiureli."
+      ],
+      "links": [
+        { "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" },
+        { "label": "Friedrich Clemens Gerke", "href": "https://en.wikipedia.org/wiki/Friedrich_Clemens_Gerke" },
+        { "label": "Codul Morse internațional", "href": "https://ro.wikipedia.org/wiki/Cod_Morse" },
+        { "label": "Uniunea Internațională a Telecomunicațiilor", "href": "https://ro.wikipedia.org/wiki/Uniunea_Internațională_a_Telecomunicațiilor" }
+      ]
+    },
+    {
+      "title": "Marconi și telegrafia fără fir",
+      "paragraphs": [
+        "Firele nu puteau ajunge la o navă. În anii 1890, Guglielmo Marconi, plecând de la Hertz, Lodge, Popov, Branly și alții, a transformat experimentele cu eclator într-o afacere de comunicații. În 1901 a anunțat litera S (trei puncte) recepționată peste Atlantic, de la Poldhu, în Cornwall, la Signal Hill din St. John’s, Newfoundland — o afirmație discutată încă de istorici, dar un moment de referință în povestea publică a radioului.",
+        "Companiile maritime au instalat camere radio. Ziarele publicau „marconigrame”. Marinele militare au descoperit că o flotă poate fi comandată dincolo de linia vizuală și că inamicul poate asculta. Morse, deja limba firului telegrafic, a devenit limba primelor aparate de radio, pentru că emițătoarele timpurii erau dispozitive de tip pornit-oprit: scântei, apoi oscilatoare cu undă continuă manipulate în CW.",
+        "Marconi și Karl Ferdinand Braun au împărțit Premiul Nobel pentru Fizică din 1909 pentru telegrafia fără fir. Codul din eter era tot Morse."
+      ],
+      "links": [
+        { "label": "Guglielmo Marconi", "href": "https://ro.wikipedia.org/wiki/Guglielmo_Marconi" },
+        { "label": "Telegrafie fără fir", "href": "https://ro.wikipedia.org/wiki/Telegrafie" },
+        { "label": "Undă continuă", "href": "https://en.wikipedia.org/wiki/Continuous_wave" },
+        { "label": "Inventarea radioului", "href": "https://en.wikipedia.org/wiki/Invention_of_radio" }
+      ]
+    },
+    {
+      "title": "Primejdie: CQD, SOS și Titanicul",
+      "paragraphs": [
+        "Primii operatori britanici ai companiei Marconi foloseau CQD ca apel de primejdie (CQ pentru „toate stațiile”, D pentru distress). În 1906, Convenția Radiotelegrafică Internațională de la Berlin a adoptat SOS ca semnal standard de primejdie, în vigoare din 1908. Secvența ···–––··· a fost aleasă pentru că este simplă, foarte ritmică și nu seamănă cu textul obișnuit. Este un prosign: cele trei litere se transmit lipite, fără spațiile normale dintre litere. Nu vine din „Save Our Souls” sau „Save Our Ship”; aceste formule au fost inventate mai târziu, ca ajutoare de memorie.",
+        "Când RMS Titanic a lovit gheața în 14–15 aprilie 1912, operatorii săi au transmis atât CQD, cât și SOS. Traficul lui Jack Phillips și al lui Harold Bride — și navele din apropiere care l-au auzit sau nu — a devenit o lecție mondială despre importanța unui semnal comun de primejdie și a unei veghe radio de 24 de ore. Dezastrul a accelerat reglementarea: perioade de liniște radio pentru ascultarea apelurilor de primejdie, ture de veghe standardizate și, în cele din urmă, convențiile privind ocrotirea vieții omenești pe mare.",
+        "SOS a rămas semnalul Morse de primejdie pe mare până când sistemele vocale și digitale au înlocuit această obligație. Chiar și acum, un SOS în Morse pe o bandă radio oprește orice conversație."
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://ro.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://en.wikipedia.org/wiki/CQD" },
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" },
+        { "label": "Scufundarea Titanicului", "href": "https://ro.wikipedia.org/wiki/Scufundarea_RMS_Titanic" },
+        { "label": "Jack Phillips (operator radio)", "href": "https://en.wikipedia.org/wiki/Jack_Phillips_(wireless_officer)" }
+      ]
+    },
+    {
+      "title": "Limba operatorilor: prosign-uri, coduri Q și 73",
+      "paragraphs": [
+        "Morse în eter nu înseamnă doar litere. Operatorii lipesc caracterele în prosign-uri: AR (sfârșit de mesaj), SK (sfârșit de legătură), BT (separator), KN (e rândul tău — doar stația numită). Se scriu cu o linie deasupra literelor, ca semn că secvențele curg împreună.",
+        "Codul Q a crescut din listele telegrafice britanice și internaționale într-un jargon radio compact: QTH pentru poziție, QRM pentru interferențe, QSB pentru fading, QSO pentru o legătură. Împreună cu prescurtările mai vechi de pe fir, din 92 Code — 73 pentru „salutări cordiale”, 88 pentru „sărutări și îmbrățișări” —, el permite ca doi necunoscuți să poarte o conversație structurată cu foarte puține cuvinte.",
+        "Acest argou comun este motivul pentru care un începător lent din Italia și un veteran din Japonia pot încheia totuși o legătură. Codul este internațional; politețea este locală."
+      ],
+      "links": [
+        { "label": "Codul Q", "href": "https://ro.wikipedia.org/wiki/Codul_Q" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" },
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "Radioamatorism", "href": "https://ro.wikipedia.org/wiki/Radioamatorism" }
+      ]
+    },
+    {
+      "title": "Cadență, PARIS, Farnsworth și Koch",
+      "paragraphs": [
+        "Morse internațional este un ritm, nu un set de imagini. O linie durează trei puncte. Pauza din interiorul unui caracter este de un punct; pauza dintre caractere, de trei; pauza dintre cuvinte, de șapte. Viteza standard în cuvinte pe minut este definită de cuvântul PARIS (inclusiv pauza de cuvânt care îl urmează), care ocupă 50 de unități-punct. De aceea programele de antrenament vorbesc despre „PARIS WPM”.",
+        "Cadența Farnsworth ține caracterele la viteză plină, dar lungește pauzele dintre ele. Începătorii aud forma reală a literelor, în loc să numere puncte. Metoda Koch, publicată de psihologul german Ludwig Koch în anii 1930, adaugă caracterele câte două, la viteza-țintă, și abia apoi lărgește alfabetul — aceeași idee stă în spatele lecțiilor mai avansate din acest antrenor.",
+        "Cea mai scurtă literă, E (un singur punct), și cea mai scurtă literă cu linie, T, există pentru că Morse și Vail (iar mai târziu Gerke) au urmat frecvența literelor: sunetele frecvente primesc secvențe ieftine. Această economie explică de ce Morse internațional încă „sună corect” la ureche, după câteva săptămâni de recepție."
+      ],
+      "links": [
+        { "label": "Cadența codului Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Timing" },
+        { "label": "Metoda Farnsworth", "href": "https://en.wikipedia.org/wiki/Morse_code#Farnsworth_timing" },
+        { "label": "Metoda Koch", "href": "https://en.wikipedia.org/wiki/Morse_code#Koch_method" },
+        { "label": "Cuvinte pe minut", "href": "https://en.wikipedia.org/wiki/Words_per_minute" }
+      ]
+    },
+    {
+      "title": "Război, femei și urechea antrenată",
+      "paragraphs": [
+        "Oficiile telegrafice dintre anii 1840 și 1920 au angajat un număr mare de femei ca operatoare — muncă tehnică în acord, într-o industrie nouă. În ambele războaie mondiale, serviciile militare au instruit mii de operatori de interceptare să recepționeze la viteză Morse-ul inamic. Radiogoniometria, plus un „pumn” bun (ritmul personal al celui care transmite), putea identifica o unitate chiar și când textul era cifrat.",
+        "Morse a călătorit și ca lumină: lămpi Aldis între nave, heliografe în campaniile coloniale și, mai târziu, oglinzi de supraviețuire. Prizonierii l-au bătut în țevi. Pilotează, navighează, comunică: forțele aeriene au predat Morse mult timp după apariția radiourilor vocale, pentru că o purtătoare slabă, manipulată în CW, se poate recepționa de mai departe decât vorbirea."
+      ],
+      "links": [
+        { "label": "Telegrafie", "href": "https://ro.wikipedia.org/wiki/Telegrafie" },
+        { "label": "Lampă de semnalizare", "href": "https://en.wikipedia.org/wiki/Signal_lamp" },
+        { "label": "Heliograf", "href": "https://en.wikipedia.org/wiki/Heliograph" },
+        { "label": "Femeile în telegrafie", "href": "https://en.wikipedia.org/wiki/Telegraphist" }
+      ]
+    },
+    {
+      "title": "Apusul oficial — și de ce Morse nu a murit",
+      "paragraphs": [
+        "Pe 1 februarie 1999, Organizația Maritimă Internațională a încheiat obligația folosirii codului Morse pe navele acoperite de Sistemul mondial de primejdie și siguranță maritimă. Stațiile de coastă și-au luat rămas-bun cu SK și un ultim CQ. A fost o săptămână emoționantă pentru radiotelegrafiștii al căror meșteșug fusese, în întregime, un manipulator și o ureche.",
+        "Radioamatorismul a păstrat flacăra aprinsă. Multe țări au scos Morse din examenele de licență (FCC din Statele Unite a făcut-o în 2007), ceea ce a redus numărul de începători obligați să îl învețe și, paradoxal, a lăsat CW-ul drept pasiune a celor care îl vor cu adevărat. Pe undele scurte, câțiva wați de Morse întrec încă o sută de wați de fonie atunci când ionosfera nu este binevoitoare.",
+        "Stația Spațială Internațională are la bord o stație de radioamator; operatorii de acolo au transmis Morse. În 2004, UIT a adăugat semnul @ în codul Morse oficial, ca un caracter nou (A și C lipite), pentru ca o adresă de e-mail să poată fi transmisă fără improvizații. Codul se mai editează. Nu este istorie încheiată."
+      ],
+      "links": [
+        { "label": "Sistemul mondial de primejdie și siguranță maritimă", "href": "https://en.wikipedia.org/wiki/Global_Maritime_Distress_and_Safety_System" },
+        { "label": "Organizația Maritimă Internațională", "href": "https://ro.wikipedia.org/wiki/Organizația_Maritimă_Internațională" },
+        { "label": "Radioamatorism pe ISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" },
+        { "label": "Semnul @ în Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Letters,_numbers,_punctuation,_prosigns_for_Morse_code_and_non-English_variants" }
+      ]
+    },
+    {
+      "title": "Alte lumi Morse: Wabun, chirilic și lumină",
+      "paragraphs": [
+        "Morse internațional este construit în jurul alfabetului latin, dar nu este singurul Morse. Practica japoneză, de radioamator și maritimă, folosește codul Wabun (silabe kana puse în corespondență cu puncte și linii), adesea cu un prosign pentru comutarea între Wabun și internațional. Utilizatorii de rusă și de alte limbi cu alfabet chirilic pun literele suplimentare pe secvențe nefolosite sau extinse. Există tabele Morse pentru greacă și ebraică din același motiv: canalul este ritmul; corespondența este locală.",
+        "Oriunde pot fi manipulate o lampă, un fluier, o goarnă sau o purtătoare, cineva a transmis Morse. Acesta este trucul durabil: o cadență binară plus un creier omenesc antrenat ca decodor."
+      ],
+      "links": [
+        { "label": "Wabun code", "href": "https://en.wikipedia.org/wiki/Wabun_code" },
+        { "label": "Russian Morse code", "href": "https://en.wikipedia.org/wiki/Russian_Morse_code" },
+        { "label": "Extensii non-latine", "href": "https://en.wikipedia.org/wiki/Morse_code#Non-Latin_extensions" }
+      ]
+    }
+  ],
+  "factsTitle": "Curiozități",
+  "facts": [
+    {
+      "title": "SOS nu este un acronim",
+      "text": "Literele S-O-S au fost alese pentru forma semnalului, nu pentru o propoziție. Etimologiile populare („Save Our Ship”) au apărut ani mai târziu. În trafic se transmite ca un singur prosign lipit, nu ca trei litere.",
+      "links": [{ "label": "SOS", "href": "https://ro.wikipedia.org/wiki/SOS" }]
+    },
+    {
+      "title": "Standardul de viteză este cuvântul PARIS",
+      "text": "Un „cuvânt” în WPM-ul Morse este PARIS plus o pauză de cuvânt: 50 de lungimi de punct. PARIS era o referință europeană comodă, nu un slogan patriotic. Dacă viteza caracterelor este de 20 WPM, dar pauzele sunt lungi, folosești cadența Farnsworth peste acest standard.",
+      "links": [{ "label": "PARIS și cadența Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Transmission" }]
+    },
+    {
+      "title": "E este un punct pentru că engleza e plină de E",
+      "text": "Ideea originală a lui Vail — și tabelul internațional de mai târziu al lui Gerke — atribuie secvențe scurte literelor frecvente. E este ·, iar T este –. Literele rare, precum Q, X și J, plătesc cu muzică mai lungă. Este aceeași presiune care a modelat frecvențele literelor la tiparul cu litere mobile și, mai târziu, codarea Huffman.",
+      "links": [{ "label": "Frecvența literelor", "href": "https://en.wikipedia.org/wiki/Letter_frequency" }]
+    },
+    {
+      "title": "V-ul victoriei este Beethoven",
+      "text": "În Al Doilea Război Mondial, BBC a folosit începutul Simfoniei a cincea a lui Beethoven ca semnal orar pentru Europa ocupată: trei note scurte și una lungă — V în Morse. Semnul V al lui Winston Churchill și V-ul Morse au călătorit împreună ca propagandă.",
+      "links": [
+        { "label": "V de la victorie", "href": "https://en.wikipedia.org/wiki/V_for_Victory" },
+        { "label": "Simfonia nr. 5 (Beethoven)", "href": "https://ro.wikipedia.org/wiki/Simfonia_nr._5_(Beethoven)" }
+      ]
+    },
+    {
+      "title": "Morse-ul american avea goluri în interiorul literelor",
+      "text": "În Morse american, litera C este două puncte, o pauză, apoi încă un punct — un gol interior pe care Morse internațional îl interzice. Operatorii de cale ferată au păstrat acest dialect până în secolul XX. C-ul din Morse internațional este –·–· (ca un A-N scurtat).",
+      "links": [{ "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" }]
+    },
+    {
+      "title": "Semnul @ este mai tânăr decât bunicii iPhone-ului",
+      "text": "În decembrie 2004, UIT a adăugat @ în codul Morse, ca radioamatorii să poată transmite adrese de e-mail. Secvența oficială este A și C lipite (·–·–·–). Morse a câștigat un caracter în secolul XXI.",
+      "links": [{ "label": "Semnul @", "href": "https://en.wikipedia.org/wiki/At_sign" }]
+    },
+    {
+      "title": "1999: navele au putut în sfârșit să tacă la manipulator",
+      "text": "GMDSS a înlocuit codul Morse ca sistem maritim obligatoriu de primejdie pe 1 februarie 1999. Unele stații de coastă au transmis un ultim rămas-bun în CW. Radioamatorii mai țin evenimente comemorative pe 500 kHz, dar navele SOLAS nu mai au nevoie de un ofițer de Morse.",
+      "links": [{ "label": "GMDSS", "href": "https://en.wikipedia.org/wiki/Global_Maritime_Distress_and_Safety_System" }]
+    },
+    {
+      "title": "În multe țări nu mai ai nevoie de Morse pentru licența de radioamator",
+      "text": "FCC a eliminat cerința de Morse pentru licențele de radioamator din Statele Unite pe 23 februarie 2007. Alte administrații au făcut la fel, în jurul modificărilor WRC-03 ale UIT. Activitatea în CW nu a dispărut; a devenit cultură opțională, în loc de barieră.",
+      "links": [{ "label": "Licențierea radioamatorilor în Statele Unite", "href": "https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_the_United_States" }]
+    },
+    {
+      "title": "Un „pumn” bun este o amprentă",
+      "text": "Operatorii vorbesc despre „pumn”: cadența personală a manipulării fiecăruia. Serviciile de interceptare din timpul războiului foloseau pumnul, plus radiogoniometria, ca să urmărească unități care își schimbau indicativele. Chiar și astăzi, prietenii din concursuri se recunosc înainte ca indicativul să fie complet.",
+      "links": [{ "label": "Cod Morse", "href": "https://ro.wikipedia.org/wiki/Cod_Morse" }]
+    },
+    {
+      "title": "Morse din orbită",
+      "text": "Echipajul Stației Spațiale Internaționale a folosit stația de radioamator de la bord (ARISS) pentru a vorbi cu școli — de obicei prin fonie, uneori în CW. Câțiva sateliți au emis și telemetrie Morse pe balize. Codul care a plecat din Baltimore în 1844 a fost recepționat din orbita joasă a Pământului.",
+      "links": [{ "label": "ARISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" }]
+    }
+  ],
+  "acronymsTitle": "Acronime Morse frecvente",
+  "acronymsIntro": "Prescurtările de mai jos sunt ceea ce se aude cu adevărat în CW: apeluri de primejdie, prosign-uri procedurale (transmise ca un singur caracter lipit), coduri Q folosite în Morse-ul de radioamator și vechi prescurtări de pe fir, pe care operatorii încă le transmit. Semnificațiile sunt cele uzuale din eter, nu un glosar juridic al UIT.",
+  "acronymGroups": [
+    {
+      "title": "Primejdie",
+      "intro": "Acestea sunt semnale de urgență, nu argou de conversație. SOS este un prosign: literele curg lipite, fără spații între ele.",
+      "items": [
+        { "code": "SOS", "meaning": "Semnalul internațional de primejdie în Morse (···–––···). Nu este un acronim; secvența a fost aleasă pentru ritmul ei distinctiv, nu pentru „Save Our Ship”." },
+        { "code": "CQD", "meaning": "Apel de primejdie mai vechi, al companiei Marconi (CQ „toate stațiile” + D pentru distress). Folosit înainte ca SOS să devină standard și transmis totuși de pe Titanic, alături de SOS." }
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://ro.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://en.wikipedia.org/wiki/CQD" },
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Prosign-uri",
+      "intro": "Prosign-urile sunt semnale procedurale, scrise cu o linie deasupra literelor, ca semn că se transmit ca un singur caracter, fără pauza obișnuită dintre litere.",
+      "items": [
+        { "code": "AR", "meaning": "Sfârșit de mesaj. Aceeași secvență Morse ca semnul plus (+)." },
+        { "code": "SK", "meaning": "Sfârșit de legătură; închiderea QSO-ului. Expresie înrudită la radioamatori: „silent key”, pentru un operator care a decedat." },
+        { "code": "BT", "meaning": "Pauză / separator între părțile unui mesaj. Aceeași secvență ca semnul egal (=)." },
+        { "code": "KN", "meaning": "E rândul tău — doar stația numită. Invită o stație anume, nu pe oricine ascultă." },
+        { "code": "BK", "meaning": "Break-in: invitație de a transmite sau „revin la tine”. Folosit și ca prescurtare scrisă." },
+        { "code": "CL", "meaning": "Închid stația; ies din eter." }
+      ],
+      "links": [
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Coduri Q în CW",
+      "intro": "Codurile Q sunt întrebări sau afirmații din trei litere. CQ nu este un cod Q, dar este apelul general pe care îl auzi constant în Morse.",
+      "items": [
+        { "code": "CQ", "meaning": "Apel general către orice stație. Nu este un cod Q, dar este modul obișnuit de a începe o legătură în CW." },
+        { "code": "QTH", "meaning": "Poziție; „QTH-ul meu este…” numește locul din care lucrezi." },
+        { "code": "QSO", "meaning": "O legătură radio; un schimb încheiat cu o altă stație." },
+        { "code": "QRS", "meaning": "Transmite mai încet." },
+        { "code": "QRQ", "meaning": "Transmite mai repede." },
+        { "code": "QRM", "meaning": "Interferențe produse de om (alte stații, zgomot electric de la aparate)." },
+        { "code": "QRN", "meaning": "Zgomot natural / atmosferic (paraziți, descărcări electrice)." },
+        { "code": "QSB", "meaning": "Fading; semnalul crește și scade." },
+        { "code": "QSL", "meaning": "Confirm primirea. Și cartonașul care confirmă că legătura a avut loc." },
+        { "code": "QRT", "meaning": "Încetează transmisia; închid stația." },
+        { "code": "QRP", "meaning": "Reduce puterea; și „lucru cu putere mică”, ca stil de operare." },
+        { "code": "QRO", "meaning": "Mărește puterea." },
+        { "code": "QRX", "meaning": "Așteaptă; te chem din nou." },
+        { "code": "QRZ", "meaning": "Cine mă cheamă?" },
+        { "code": "QRL", "meaning": "Este ocupată frecvența? Verificarea politicoasă înainte de a chema CQ." },
+        { "code": "QSY", "meaning": "Schimbă frecvența." }
+      ],
+      "links": [
+        { "label": "Codul Q", "href": "https://ro.wikipedia.org/wiki/Codul_Q" }
+      ]
+    },
+    {
+      "title": "Prescurtări de pe fir și de radioamator",
+      "intro": "Vin din practica telegrafiei prin fir (inclusiv din 92 Code) și din Morse-ul de radioamator. Se transmit ca litere separate, nu lipite ca prosign-urile.",
+      "items": [
+        { "code": "73", "meaning": "Salutări cordiale. Din 92 Code, din secolul XIX; formula obișnuită de rămas-bun în CW." },
+        { "code": "88", "meaning": "Sărutări și îmbrățișări. Tot din 92 Code; se folosește mai personal decât 73." },
+        { "code": "DE", "meaning": "De la / aici este. Se pune între indicative: YO3ABC DE W1XYZ." },
+        { "code": "ES", "meaning": "Și (din prescurtarea Morse pentru „and”)." },
+        { "code": "UR", "meaning": "Al tău (your)." },
+        { "code": "OM", "meaning": "Old man — un operator bărbat. Amical, nu o aluzie la vârstă." },
+        { "code": "YL", "meaning": "Young lady — o operatoare." },
+        { "code": "XYL", "meaning": "Soție („ex-young lady”)." },
+        { "code": "WX", "meaning": "Vremea." },
+        { "code": "PSE", "meaning": "Te rog (please)." },
+        { "code": "TNX", "meaning": "Mulțumesc. Se folosește și TU („thank you”)." },
+        { "code": "FB", "meaning": "Fine business — excelent, bine lucrat, semn că legătura a mers bine." },
+        { "code": "GM/GA/GE", "meaning": "Bună dimineața / bună ziua / bună seara." },
+        { "code": "HW", "meaning": "How — ca în HW CPY? („cum recepționezi?”)." },
+        { "code": "BK", "meaning": "Break — dă-i drumul sau intru în legătură. Aceeași idee ca prosign-ul BK, transmisă ca două litere." }
+      ],
+      "links": [
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" }
+      ]
+    }
+  ]
+}

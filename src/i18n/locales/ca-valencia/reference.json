@@ -1,0 +1,18 @@
+{
+  "title": "Referència",
+  "subtitle": "Alfabet, puntuació i prosigns.",
+  "letters": "Lletres",
+  "digits": "Xifres",
+  "punctuation": "Puntuació",
+  "prosigns": "Prosigns",
+  "prosignNotes": {
+    "AR": "Fi del missatge",
+    "SK": "Fi del contacte",
+    "BT": "Pausa / separador",
+    "KN": "Invitació a una estació concreta",
+    "BK": "Interrupció"
+  },
+  "tapToHear": "Toca un caràcter per a escoltar-lo.",
+  "mnemonics": "Taula mnemònica",
+  "mnemonicsHint": "Punts i ratlles dibuixats sobre cada lletra. Toca per a escoltar-la."
+}

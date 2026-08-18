@@ -1,0 +1,16 @@
+{
+  "title": "Trasmetti",
+  "subtitle": "Manipola con la barra spaziatrice, il mouse o il tocco: il tuo ritmo diventa Morse.",
+  "hold": "Tieni premuto per trasmettere",
+  "decoded": "Decodificato",
+  "clear": "Cancella",
+  "targetPrompt": "Prova a trasmettere: {{target}}",
+  "newTarget": "Nuovo obiettivo",
+  "match": "Esatto!",
+  "hint": "Tieni premuto Spazio o il tasto sullo schermo. Rilascia tra un segno e l'altro; una pausa più lunga chiude il carattere.",
+  "mute": "Disattiva audio",
+  "unmute": "Attiva audio",
+  "showCode": "Mostra il codice",
+  "hideCode": "Nascondi il codice",
+  "code": "Codice di {{target}}"
+}

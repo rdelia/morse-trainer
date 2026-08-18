@@ -1,0 +1,16 @@
+{
+  "title": "Émettre",
+  "subtitle": "Touche avec espace, souris ou tactile. Le timing devient du Morse.",
+  "hold": "Maintenir pour émettre",
+  "decoded": "Décodé",
+  "clear": "Effacer",
+  "targetPrompt": "Essayez d'émettre : {{target}}",
+  "newTarget": "Nouvelle cible",
+  "match": "Correspond !",
+  "hint": "Maintenez Espace ou la palette. Relâchez entre les éléments. Pause pour finir un caractère.",
+  "mute": "Couper le son",
+  "unmute": "Activer le son",
+  "showCode": "Voir le code",
+  "hideCode": "Masquer le code",
+  "code": "Code de {{target}}"
+}

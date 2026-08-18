@@ -1,0 +1,18 @@
+{
+  "title": "Referință",
+  "subtitle": "Alfabet, punctuație și prosign-uri.",
+  "letters": "Litere",
+  "digits": "Cifre",
+  "punctuation": "Punctuație",
+  "prosigns": "Prosign-uri",
+  "prosignNotes": {
+    "AR": "Sfârșitul mesajului",
+    "SK": "Sfârșitul legăturii",
+    "BT": "Pauză / separator",
+    "KN": "Invitație doar pentru o anumită stație",
+    "BK": "Întrerupere"
+  },
+  "tapToHear": "Atinge un caracter ca să îl asculți.",
+  "mnemonics": "Tabel mnemonic",
+  "mnemonicsHint": "Puncte și linii desenate pe fiecare literă. Atinge ca să o asculți."
+}

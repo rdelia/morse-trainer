@@ -1,0 +1,16 @@
+{
+  "title": "Send",
+  "subtitle": "Key with spacebar, mouse, or touch. Timing becomes Morse.",
+  "hold": "Hold to key",
+  "decoded": "Decoded",
+  "clear": "Clear",
+  "targetPrompt": "Try sending: {{target}}",
+  "newTarget": "New target",
+  "match": "Match!",
+  "hint": "Press and hold Space or the paddle. Release between elements. Pause to end a character.",
+  "mute": "Mute sound",
+  "unmute": "Unmute sound",
+  "showCode": "Show the code",
+  "hideCode": "Hide the code",
+  "code": "Code for {{target}}"
+}

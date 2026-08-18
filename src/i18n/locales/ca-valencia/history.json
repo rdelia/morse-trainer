@@ -1,0 +1,285 @@
+{
+  "title": "Wiki del codi Morse",
+  "subtitle": "Història del codi, més els senyals de socors, els prosignes, els codis Q i les abreviatures de radioafició que sentiràs en CW.",
+  "intro": "El codi Morse no és una relíquia de museu. És un sistema d'escriptura complet per al so: marques curtes, marques llargues i silencis mesurats. Esta pàgina és una història guiada d'eixe sistema: qui el va construir, com va canviar, per què SOS no és un acrònim i per què els operadors encara el fan servir en l'aire. Cada secció enllaça amb la Viquipèdia perquè pugues aprofundir-hi.",
+  "toc": "En esta pàgina",
+  "wiki": "Viquipèdia",
+  "sourcesNote": "Els articles enllaçats són punts de partida en la Viquipèdia. El contingut de la Viquipèdia està disponible sota CC BY-SA; seguix cada enllaç per a les citacions i les lectures posteriors.",
+  "sections": [
+    {
+      "title": "Abans del fil: els telègrafs òptics",
+      "paragraphs": [
+        "Molt abans de l'electricitat, els estats movien els missatges més de pressa que un cavall. En la dècada de 1790 les torres de semàfor de Claude Chappe travessaven França amb braços articulats que els oficinistes podien llegir amb un telescopi. Cadenes semblants van aparéixer a la Gran Bretanya, a Suècia i a Prússia. La idea ja hi era: codificar la llengua en un conjunt xicotet de signes visibles i retransmetre eixos signes d'estació en estació.",
+        "Els telègrafs òptics eren cars, depenien del temps i pertanyien a l'estat. Al segle XIX encara li faltava un codi que un sol fil —i més tard una ona de ràdio— poguera portar de dia i de nit, amb boira i amb tempestat, sense res més que encés i apagat."
+      ],
+      "links": [
+        { "label": "Claude Chappe", "href": "https://ca.wikipedia.org/wiki/Claude_Chappe" },
+        { "label": "Telègraf òptic", "href": "https://ca.wikipedia.org/wiki/Telègraf_òptic" },
+        { "label": "Semàfor òptic", "href": "https://en.wikipedia.org/wiki/Semaphore" }
+      ]
+    },
+    {
+      "title": "Morse, Vail i el telègraf elèctric",
+      "paragraphs": [
+        "Samuel Finley Breese Morse (1791–1872) era un pintor que es va obsessionar amb la idea d'enviar informació per un fil després d'una conversa sobre electromagnetisme en una travessia atlàntica en 1832. No era electricista de formació. En la Universitat de Nova York va treballar amb el científic Leonard Gale, que li va mostrar que calien moltes piles i moltes espires de fil per a impulsar un senyal a una distància útil.",
+        "L'instrument pràctic i bona part del codi americà original van vindre d'Alfred Vail, soci de Morse des de 1837. Vail va perfeccionar el registrador que gravava en relleu punts i ratlles en cinta de paper, va ajudar a dissenyar el manipulador d'enviament i va defendre un alfabet compacte en què les lletres angleses més freqüents feien servir patrons més curts. Qui va inventar el «codi Morse» encara es discutix; el que no es discutix és que el sistema públic que va vindre després portava el nom de Morse i l'enginyeria de Vail.",
+        "Després d'anys de política i de projectes de llei fallits, els Estats Units van finançar una línia experimental. El 24 de maig de 1844 Morse es va assentar en la sala del Tribunal Suprem dels Estats Units, al Capitoli, i va enviar a l'estació de Mount Clare, a Baltimore, un vers bíblic triat per Annie Ellsworth: «What hath God wrought» («Què ha obrat Déu»). El telègraf elèctric va tindre un naixement públic."
+      ],
+      "links": [
+        { "label": "Samuel Morse", "href": "https://ca.wikipedia.org/wiki/Samuel_Morse" },
+        { "label": "Alfred Vail", "href": "https://ca.wikipedia.org/wiki/Alfred_Vail" },
+        { "label": "Telègraf elèctric", "href": "https://ca.wikipedia.org/wiki/Telègraf" },
+        { "label": "What hath God wrought", "href": "https://en.wikipedia.org/wiki/What_hath_God_wrought" },
+        { "label": "Codi Morse", "href": "https://ca.wikipedia.org/wiki/Codi_Morse" }
+      ]
+    },
+    {
+      "title": "Dos codis Morse: l'americà i l'internacional",
+      "paragraphs": [
+        "El codi d'aquella primera línia estatunidenca no és el codi que ensenya este entrenador. El Morse americà (de vegades anomenat Morse ferroviari) feia servir espais interns dins d'algunes lletres —la C, la O, la R, la Y i la Z eren «lletres espaiades»— i conservava xifres peculiars. Va sobreviure dècades en les línies terrestres i els ferrocarrils de Nord-amèrica perquè els operadors ja el coneixien.",
+        "En 1848 Friedrich Clemens Gerke va revisar l'alfabet per al telègraf Hamburg–Cuxhaven. Va suprimir els espais dins del caràcter, va regularitzar els temps i va refer diverses lletres. Les administracions alemanyes i després les europees van adoptar variants de l'esquema de Gerke. Un congrés telegràfic internacional a París (1865) i, més tard, la Unió Internacional de Telecomunicacions van estandarditzar el que hui anomenem codi Morse internacional.",
+        "Si hui aprens Morse per a la radioafició, per a la història de l'aviació o per a esta aplicació, aprens l'alfabet internacional, no l'americà de 1844. Barrejar els dos és una manera clàssica de copiar disbarats."
+      ],
+      "links": [
+        { "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" },
+        { "label": "Friedrich Clemens Gerke", "href": "https://ca.wikipedia.org/wiki/Friedrich_Clemens_Gerke" },
+        { "label": "Codi Morse internacional", "href": "https://ca.wikipedia.org/wiki/Codi_Morse" },
+        { "label": "Unió Internacional de Telecomunicacions", "href": "https://ca.wikipedia.org/wiki/Unió_Internacional_de_Telecomunicacions" }
+      ]
+    },
+    {
+      "title": "Marconi i la telegrafia sense fils",
+      "paragraphs": [
+        "Els fils no podien arribar a un vaixell. En la dècada de 1890 Guglielmo Marconi, partint de Hertz, Lodge, Popov, Branly i altres, va convertir els experiments d'espurna en un negoci de comunicació. En 1901 va informar que havia rebut la lletra S (tres punts) a través de l'Atlàntic, des de Poldhu, a Cornualla, fins a Signal Hill, a St. John's, Terranova: una afirmació que els historiadors encara discutixen, però una fita en el relat públic de la ràdio.",
+        "Les companyies marítimes van instal·lar cabines de ràdio. Els diaris publicaven «marconigrames». Les marines van descobrir que una flota es podia comandar més enllà de l'abast visual, i que l'enemic podia escoltar. El Morse, que ja era la llengua del fil terrestre, va esdevindre la llengua de les primeres ràdios perquè els primers transmissors eren aparells d'encendre i apagar: espurnes i, després, oscil·ladors d'ona contínua manipulats en CW.",
+        "Marconi i Karl Ferdinand Braun van compartir el Premi Nobel de Física de 1909 per la telegrafia sense fils. El codi que anava per l'aire encara era el Morse."
+      ],
+      "links": [
+        { "label": "Guglielmo Marconi", "href": "https://ca.wikipedia.org/wiki/Guglielmo_Marconi" },
+        { "label": "Telegrafia sense fils", "href": "https://ca.wikipedia.org/wiki/Telegrafia_sense_fils" },
+        { "label": "Ona contínua", "href": "https://ca.wikipedia.org/wiki/Ona_contínua" },
+        { "label": "Invenció de la ràdio", "href": "https://en.wikipedia.org/wiki/Invention_of_radio" }
+      ]
+    },
+    {
+      "title": "Socors: CQD, SOS i el Titanic",
+      "paragraphs": [
+        "Els primers operadors britànics de Marconi feien servir CQD com a crida de socors (CQ per a «totes les estacions», D per distress, socors). En 1906 el Conveni Radiotelegràfic Internacional de Berlín va adoptar SOS com a senyal de socors estàndard, en vigor des de 1908. El patró ···–––··· es va triar perquè és simple, molt rítmic i poc semblant al text ordinari. És un prosigne: les tres lletres s'envien seguides, sense els espais habituals entre lletres. No vol dir «Save Our Souls» ni «Save Our Ship»; eixes frases es van inventar després com a regles mnemotècniques.",
+        "Quan l'RMS Titanic va xocar contra el gel el 14–15 d'abril de 1912, els seus operadors van enviar tant CQD com SOS. El tràfic de Jack Phillips i Harold Bride —i els vaixells pròxims que el van sentir o que no el van sentir— es va convertir en una lliçó mundial sobre per què importaven un senyal de socors comú i una escolta de ràdio de 24 hores. El desastre va accelerar la regulació: hores de silenci per a escoltar el socors, guàrdies normalitzades i, finalment, els convenis per a la seguretat de la vida humana en la mar (SOLAS).",
+        "SOS va continuar sent el senyal Morse de socors en la mar fins que la fonia i els sistemes digitals van substituir l'obligació. Encara ara, un SOS en Morse en una banda de ràdio atura qualsevol conversa."
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://ca.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://en.wikipedia.org/wiki/CQD" },
+        { "label": "Prosignes del codi Morse", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" },
+        { "label": "Enfonsament del Titanic", "href": "https://ca.wikipedia.org/wiki/Enfonsament_del_Titanic" },
+        { "label": "Jack Phillips (operador de ràdio)", "href": "https://en.wikipedia.org/wiki/Jack_Phillips_(wireless_officer)" }
+      ]
+    },
+    {
+      "title": "La llengua dels operadors: prosignes, codis Q i 73",
+      "paragraphs": [
+        "El Morse en l'aire no són només lletres. Els operadors apeguen caràcters per a formar prosignes: AR (fi de missatge), SK (fi de contacte), BT (separació), KN (endavant, només l'estació anomenada). S'escriuen amb una ratlla damunt de les lletres per a mostrar que els patrons van seguits.",
+        "El codi Q va créixer a partir de les llistes telegràfiques britàniques i internacionals fins a convertir-se en un argot radiofònic compacte: QTH per a la localització, QRM per a les interferències, QSB per a l'esvaïment, QSO per a un contacte. Combinat amb les velles abreviatures del fil del Codi 92 —73 per a «salutacions cordials», 88 per a «besos i abraçades»—, permet que dos desconeguts mantinguen una conversa estructurada amb molt poques paraules.",
+        "Este argot compartit és el motiu pel qual un principiant lent d'Itàlia i un veterà del Japó encara poden completar un contacte. El codi és internacional; la cortesia és local."
+      ],
+      "links": [
+        { "label": "Codi Q", "href": "https://ca.wikipedia.org/wiki/Codi_Q" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" },
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "Radioafició", "href": "https://ca.wikipedia.org/wiki/Radioafició" }
+      ]
+    },
+    {
+      "title": "Temps, PARIS, Farnsworth i Koch",
+      "paragraphs": [
+        "El Morse internacional és un ritme, no un conjunt de dibuixos. Una ratlla dura tres punts. El buit dins d'un caràcter és d'un punt; el buit entre caràcters, de tres; el buit entre paraules, de set. Les paraules per minut estàndard es definixen amb la paraula PARIS (inclòs l'espai de paraula que la seguix), que ocupa 50 unitats de punt. Per això els entrenadors parlen de «PARIS WPM».",
+        "El temporitzat Farnsworth manté els caràcters a velocitat plena mentre allarga els buits que hi ha entre ells. Els principiants senten formes de lletra reals en lloc de comptar punts. El mètode Koch, publicat pel psicòleg alemany Ludwig Koch en la dècada de 1930, afig caràcters de dos en dos a la velocitat objectiu i només després amplia l'alfabet: la mateixa idea que hi ha darrere de les lliçons posteriors d'este entrenador.",
+        "La lletra més curta, la E (un sol punt), i la lletra de ratlla més curta, la T, existixen perquè Morse i Vail (i més tard Gerke) van seguir la freqüència de les lletres: els sons més comuns reben els patrons més barats. Eixa economia és el motiu pel qual el Morse internacional encara «sona bé» a l'oïda després d'unes setmanes de còpia."
+      ],
+      "links": [
+        { "label": "Temporització del Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Timing" },
+        { "label": "Mètode Farnsworth", "href": "https://en.wikipedia.org/wiki/Morse_code#Farnsworth_timing" },
+        { "label": "Mètode Koch", "href": "https://en.wikipedia.org/wiki/Morse_code#Koch_method" },
+        { "label": "Paraules per minut", "href": "https://en.wikipedia.org/wiki/Words_per_minute" }
+      ]
+    },
+    {
+      "title": "Guerra, dones i l'oïda experta",
+      "paragraphs": [
+        "Les oficines telegràfiques de les dècades de 1840 a 1920 van ocupar un gran nombre de dones com a operadores: treball qualificat i a preu fet en una indústria tècnica nova. En les dos guerres mundials, els servicis militars van formar milers d'operadors d'interceptació per a copiar el Morse enemic a velocitat. La radiogoniometria, més un bon puny (el ritme personal de qui transmet), podia identificar una unitat encara que el text estiguera xifrat.",
+        "El Morse també va viatjar com a llum: llanternes Aldis entre vaixells, heliògrafs en les campanyes colonials i, més tard, espills de supervivència. Els presos l'han colpejat en les canonades. Volar, navegar, comunicar: les forces aèries van ensenyar Morse molt després que existiren les ràdios de veu, perquè una portadora feble manipulada en CW es pot copiar més lluny que la parla."
+      ],
+      "links": [
+        { "label": "Telegrafia", "href": "https://ca.wikipedia.org/wiki/Telegrafia" },
+        { "label": "Llum de senyals", "href": "https://en.wikipedia.org/wiki/Signal_lamp" },
+        { "label": "Heliògraf", "href": "https://ca.wikipedia.org/wiki/Heliògraf" },
+        { "label": "Telegrafista", "href": "https://ca.wikipedia.org/wiki/Telegrafista" }
+      ]
+    },
+    {
+      "title": "El crepuscle oficial — i per què el Morse no va morir",
+      "paragraphs": [
+        "L'1 de febrer de 1999 l'Organització Marítima Internacional va acabar amb l'obligació del Morse en els vaixells coberts pel Sistema Mundial de Socors i Seguretat Marítims (GMDSS). Les estacions costaneres es van acomiadar amb SK i una última crida CQ. Va ser una setmana emotiva per als oficials de ràdio l'ofici sencer dels quals havia sigut un manipulador i una oïda.",
+        "La radioafició va mantindre la flama. Molts països van llevar el Morse dels exàmens de llicència (la FCC dels Estats Units ho va fer en 2007), cosa que va reduir el nombre de nouvinguts obligats a aprendre'l i, paradoxalment, va deixar el CW com una afició de qui el vol de veres. En HF, uns pocs watts de Morse encara guanyen cent watts de veu quan la ionosfera no és amable.",
+        "L'Estació Espacial Internacional porta radioafició; els operadors de bord han enviat Morse. En 2004 la UIT va afegir el signe @ al Morse oficial com a caràcter nou (A i C seguides), perquè es poguera enviar una adreça de correu sense improvisar. El codi encara s'està editant. No és història tancada."
+      ],
+      "links": [
+        { "label": "Sistema Mundial de Socors i Seguretat Marítims", "href": "https://en.wikipedia.org/wiki/Global_Maritime_Distress_and_Safety_System" },
+        { "label": "Organització Marítima Internacional", "href": "https://ca.wikipedia.org/wiki/Organització_Marítima_Internacional" },
+        { "label": "Radioafició en l'ISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" },
+        { "label": "La @ en Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Letters,_numbers,_punctuation,_prosigns_for_Morse_code_and_non-English_variants" }
+      ]
+    },
+    {
+      "title": "Altres mons Morse: Wabun, ciríl·lic i llum",
+      "paragraphs": [
+        "El Morse internacional està construït al voltant de l'alfabet llatí, però no és l'únic Morse. La pràctica japonesa, tant d'aficionats com marítima, fa servir el codi Wabun (síl·labes kana assignades a punts i ratlles), sovint amb un prosigne per a canviar entre el Wabun i l'internacional. Els usuaris russos i d'altres alfabets ciríl·lics assignen les lletres addicionals a patrons no utilitzats o ampliats. Hi ha taules de Morse gregues i hebrees per la mateixa raó: el canal és el ritme; l'assignació és local.",
+        "Allà on es puga manipular una llanterna, un xiulet, una corneta o una portadora, algú ha enviat Morse. Eixe és el truc durador: temporització binària més un cervell humà entrenat com a descodificador."
+      ],
+      "links": [
+        { "label": "Wabun code", "href": "https://en.wikipedia.org/wiki/Wabun_code" },
+        { "label": "Russian Morse code", "href": "https://en.wikipedia.org/wiki/Russian_Morse_code" },
+        { "label": "Extensions no llatines del Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Non-Latin_extensions" }
+      ]
+    }
+  ],
+  "factsTitle": "Dades curioses",
+  "facts": [
+    {
+      "title": "SOS no és un acrònim",
+      "text": "Les lletres S-O-S es van triar per la forma del senyal, no per una frase. Les etimologies populars («Save Our Ship») van aparéixer anys després. En el tràfic s'envia com un únic prosigne apegat, no com tres lletres.",
+      "links": [{ "label": "SOS", "href": "https://ca.wikipedia.org/wiki/SOS" }]
+    },
+    {
+      "title": "L'estàndard de velocitat és la paraula PARIS",
+      "text": "Una «paraula» en WPM de Morse és PARIS més un espai de paraula: 50 longituds de punt. PARIS era una referència europea còmoda, no un eslògan patriòtic. Si la teua velocitat de caràcter és de 20 WPM amb buits llargs, estàs fent servir el temporitzat Farnsworth damunt d'eixe estàndard.",
+      "links": [{ "label": "PARIS i la temporització del Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Transmission" }]
+    },
+    {
+      "title": "La E és un punt perquè l'anglés està ple de E",
+      "text": "La idea original de Vail —i la taula internacional posterior de Gerke— assigna patrons curts a les lletres més comunes. La E és · i la T és –. Les lletres rares com la Q, la X i la J paguen amb música més llarga. És la mateixa pressió que va donar forma a les freqüències de lletres dels tipus mòbils i, més tard, a la codificació de Huffman.",
+      "links": [{ "label": "Freqüència de lletres", "href": "https://en.wikipedia.org/wiki/Letter_frequency" }]
+    },
+    {
+      "title": "La V de la victòria és Beethoven",
+      "text": "En la Segona Guerra Mundial la BBC va fer servir l'inici de la Cinquena simfonia de Beethoven com a senyal horari per a l'Europa ocupada: tres notes curtes i una llarga, la V en Morse. El gest de la V de Winston Churchill i la V en Morse van viatjar junts com a propaganda.",
+      "links": [
+        { "label": "V de la victòria", "href": "https://ca.wikipedia.org/wiki/V_de_la_victòria" },
+        { "label": "Simfonia núm. 5 (Beethoven)", "href": "https://ca.wikipedia.org/wiki/Simfonia_núm._5_(Beethoven)" }
+      ]
+    },
+    {
+      "title": "El Morse americà tenia forats dins de les lletres",
+      "text": "En el Morse americà, la lletra C és dos punts, un espai i després un altre punt: un buit intern que el Morse internacional prohibix. Els operadors ferroviaris van conservar eixe dialecte fins al segle XX. La C del Morse internacional és –·–· (com una A-N retallada).",
+      "links": [{ "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" }]
+    },
+    {
+      "title": "El símbol @ és més jove que els iaios de l'iPhone",
+      "text": "En desembre de 2004 la UIT va afegir la @ al Morse perquè els radioaficionats pogueren enviar adreces de correu electrònic. El patró oficial és A i C seguides (·–·–·–). El Morse va guanyar un caràcter en el segle XXI.",
+      "links": [{ "label": "Arrova", "href": "https://ca.wikipedia.org/wiki/Arrova" }]
+    },
+    {
+      "title": "1999: els vaixells van poder callar per fi en el manipulador",
+      "text": "El GMDSS va substituir el Morse com a sistema marítim obligatori de socors l'1 de febrer de 1999. Algunes estacions costaneres van transmetre un últim adéu en CW. Els operadors aficionats encara mantenen actes commemoratius en 500 kHz, però els vaixells SOLAS ja no necessiten un oficial de Morse.",
+      "links": [{ "label": "GMDSS", "href": "https://en.wikipedia.org/wiki/Global_Maritime_Distress_and_Safety_System" }]
+    },
+    {
+      "title": "En molts països ja no fa falta el Morse per a obtindre la llicència de radioaficionat",
+      "text": "La FCC va llevar el requisit del Morse per a les llicències d'aficionat dels Estats Units el 23 de febrer de 2007. Altres administracions van fer el mateix al voltant dels canvis de la WRC-03 de la UIT. L'operació en CW no va desaparéixer: va passar a ser cultura opcional en lloc d'una barrera.",
+      "links": [{ "label": "Llicències de radioafició als Estats Units", "href": "https://en.wikipedia.org/wiki/Amateur_radio_licensing_in_the_United_States" }]
+    },
+    {
+      "title": "Un bon puny és una empremta digital",
+      "text": "Els operadors parlen del «puny»: el temporitzat personal de la manipulació d'algú. Els servicis d'interceptació de guerra feien servir els punys, més la radiogoniometria, per a seguir unitats que canviaven de nominatiu. Encara hui, en els concursos, els amics es reconeixen abans que el nominatiu estiga complet.",
+      "links": [{ "label": "Codi Morse", "href": "https://ca.wikipedia.org/wiki/Codi_Morse" }]
+    },
+    {
+      "title": "Morse des de l'òrbita",
+      "text": "La tripulació de l'Estació Espacial Internacional ha fet servir la radioafició de bord (ARISS) per a parlar amb escoles, normalment en fonia i de vegades en CW. Un grapat de satèl·lits també han emés telemetria en Morse com a balisa. El codi que va eixir de Baltimore en 1844 s'ha copiat des de l'òrbita baixa terrestre.",
+      "links": [{ "label": "ARISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" }]
+    }
+  ],
+  "acronymsTitle": "Acrònims Morse habituals",
+  "acronymsIntro": "Les abreviatures de davall són el que de veritat se sent en CW: crides de socors, prosignes de procediment (enviats com un únic caràcter apegat), codis Q que es fan servir en el Morse d'aficionat i velles abreviatures del fil que els operadors encara teclegen. Els significats són els d'ús habitual en l'aire, no un glossari legal de la UIT.",
+  "acronymGroups": [
+    {
+      "title": "Socors",
+      "intro": "Estos són senyals d'emergència, no argot casual. SOS és un prosigne: les lletres van seguides, sense espais entre lletres.",
+      "items": [
+        { "code": "SOS", "meaning": "Senyal internacional de socors en Morse (···–––···). No és un acrònim; el patró es va triar pel seu ritme inconfusible, no per «Save Our Ship»." },
+        { "code": "CQD", "meaning": "Antiga crida de socors de Marconi (CQ «totes les estacions» + D per distress, socors). Es feia servir abans que SOS fóra l'estàndard, i encara es va enviar des del Titanic al costat de SOS." }
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://ca.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://en.wikipedia.org/wiki/CQD" },
+        { "label": "Prosignes del codi Morse", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Prosignes",
+      "intro": "Els prosignes són senyals de procediment que s'escriuen amb una ratlla damunt de les lletres per a mostrar que s'envien com un únic caràcter, sense el buit habitual entre lletres.",
+      "items": [
+        { "code": "AR", "meaning": "Fi de missatge. El mateix patró Morse que el signe més (+)." },
+        { "code": "SK", "meaning": "Fi de contacte; tancament del QSO. Frase relacionada en radioafició: «silent key», per a un operador que ha mort." },
+        { "code": "BT", "meaning": "Pausa / separador entre parts d'un missatge. El mateix patró que el signe igual (=)." },
+        { "code": "KN", "meaning": "Et passe el torn — només l'estació anomenada. Convida una estació concreta, no qualsevol que estiga escoltant." },
+        { "code": "BK", "meaning": "Break-in: invitació a transmetre, o «te'l torne». També es fa servir com a abreviatura tecleada." },
+        { "code": "CL", "meaning": "Tancament d'estació; se n'ix de l'aire." }
+      ],
+      "links": [
+        { "label": "Prosignes del codi Morse", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Codis Q en CW",
+      "intro": "Els codis Q són preguntes o afirmacions de tres lletres. CQ no és un codi Q, però és la crida general que sentiràs constantment en Morse.",
+      "items": [
+        { "code": "CQ", "meaning": "Crida general a qualsevol estació. No és un codi Q, però és la manera habitual de començar un contacte en CW." },
+        { "code": "QTH", "meaning": "Localització; «el meu QTH és…» anomena el lloc des d'on operes." },
+        { "code": "QSO", "meaning": "Un contacte de ràdio; un intercanvi completat amb una altra estació." },
+        { "code": "QRS", "meaning": "Transmet més lentament." },
+        { "code": "QRQ", "meaning": "Transmet més ràpid." },
+        { "code": "QRM", "meaning": "Interferència artificial (altres estacions, soroll elèctric d'aparells)." },
+        { "code": "QRN", "meaning": "Soroll natural / atmosfèric (estàtica, tempestats)." },
+        { "code": "QSB", "meaning": "Esvaïment; el senyal puja i baixa." },
+        { "code": "QSL", "meaning": "Confirme la recepció. També és la targeta que confirma que el contacte va tindre lloc." },
+        { "code": "QRT", "meaning": "Deixa de transmetre; estic tancant." },
+        { "code": "QRP", "meaning": "Reduïx la potència; també «operar amb potència baixa» com a estil." },
+        { "code": "QRO", "meaning": "Augmenta la potència." },
+        { "code": "QRX", "meaning": "Espera; et tornaré a cridar." },
+        { "code": "QRZ", "meaning": "Qui em crida?" },
+        { "code": "QRL", "meaning": "Està ocupada esta freqüència? La comprovació educada abans de cridar CQ." },
+        { "code": "QSY", "meaning": "Canvia de freqüència." }
+      ],
+      "links": [
+        { "label": "Codi Q", "href": "https://ca.wikipedia.org/wiki/Codi_Q" }
+      ]
+    },
+    {
+      "title": "Abreviatures del fil i de radioafició",
+      "intro": "Estes vénen de la pràctica del telègraf terrestre (inclòs el Codi 92) i del Morse d'aficionat. Es teclegen com a lletres separades, no apegades com els prosignes.",
+      "items": [
+        { "code": "73", "meaning": "Salutacions cordials. Del Codi 92 del segle XIX; l'adéu habitual en CW." },
+        { "code": "88", "meaning": "Besos i abraçades. També del Codi 92; s'usa de manera més personal que 73." },
+        { "code": "DE", "meaning": "De / ací. Es col·loca entre nominatius: EA5ABC DE W1XYZ." },
+        { "code": "ES", "meaning": "I (de l'abreviatura Morse per a «and»)." },
+        { "code": "UR", "meaning": "El teu / your." },
+        { "code": "OM", "meaning": "Old man — un operador home. Amistós, no un insult per l'edat." },
+        { "code": "YL", "meaning": "Young lady — una operadora." },
+        { "code": "XYL", "meaning": "Esposa («ex-young lady»)." },
+        { "code": "WX", "meaning": "Temps meteorològic." },
+        { "code": "PSE", "meaning": "Per favor." },
+        { "code": "TNX", "meaning": "Gràcies. També és comú TU («thank you»)." },
+        { "code": "FB", "meaning": "Fine business — excel·lent, ben fet, un bon informe del contacte." },
+        { "code": "GM/GA/GE", "meaning": "Bon dia / bona vesprada / bona nit." },
+        { "code": "HW", "meaning": "How — com en HW CPY? («com em copies?»)." },
+        { "code": "BK", "meaning": "Break — endavant, o estic interrompent. La mateixa idea que el prosigne BK, tecleat com dos lletres." }
+      ],
+      "links": [
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" }
+      ]
+    }
+  ]
+}

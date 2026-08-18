@@ -1,0 +1,32 @@
+{
+  "title": "Pratiquer",
+  "subtitle": "Exercices libres hors parcours.",
+  "modes": {
+    "groups": "Groupes aléatoires",
+    "groupsDesc": "Groupes Koch classiques de 5 caractères.",
+    "words": "Mots",
+    "wordsDesc": "Mots du dictionnaire de votre langue.",
+    "callsigns": "Indicatifs",
+    "callsignsDesc": "Indicatifs radioamateurs réalistes.",
+    "qso": "QSO",
+    "qsoDesc": "Copiez un court échange.",
+    "warmup": "Échauffement",
+    "warmupDesc": "Plus de poids sur vos caractères faibles.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Écoutez un mot entier, puis tapez."
+  },
+  "qsoNotes": {
+    "basic": "CQ standard, rapport, nom/QTH et 73 SK.",
+    "short": "QSO minimal en trois lignes."
+  },
+  "reveal": "Motif : {{pattern}}",
+  "revealSolution": "Afficher la solution",
+  "solution": "Solution",
+  "transcription": "Morse",
+  "target": "Cible",
+  "heard": "Vous avez copié",
+  "startSession": "Démarrer la session",
+  "nextSession": "Session suivante",
+  "groupsOf": "{{n}} groupes de 5",
+  "line": "Ligne {{n}}"
+}

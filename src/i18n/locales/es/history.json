@@ -1,0 +1,285 @@
+{
+  "title": "Wiki del código Morse",
+  "subtitle": "Historia del código, más las señales de socorro, prosignos, códigos Q y abreviaturas que oirás en CW.",
+  "intro": "El código Morse no es una reliquia de museo. Es un sistema de escritura para el sonido: marcas cortas, marcas largas y silencios medidos. Esta página es una historia guiada de ese sistema: quién lo construyó, cómo cambió, por qué SOS no es un acrónimo y por qué los operadores aún lo usan en el aire. Cada sección enlaza a Wikipedia para profundizar.",
+  "toc": "En esta página",
+  "wiki": "Wikipedia",
+  "sourcesNote": "Los artículos enlazados son puntos de partida en Wikipedia. El contenido de Wikipedia está disponible bajo CC BY-SA; sigue cada enlace para citas y lecturas posteriores.",
+  "sections": [
+    {
+      "title": "Antes del hilo: telégrafos ópticos",
+      "paragraphs": [
+        "Mucho antes de la electricidad, los Estados movían mensajes más rápido que un caballo. En la década de 1790 las torres de semáforo de Claude Chappe cruzaban Francia con brazos articulados que los empleados leían con catalejo. Cadenas parecidas surgieron en Gran Bretaña, Suecia y Prusia. La idea ya estaba: codificar la lengua en un conjunto pequeño de signos visibles y retransmitirlos de estación en estación.",
+        "Los telégrafos ópticos eran caros, dependían del tiempo y pertenecían al Estado. Al siglo XIX aún le hacía falta un código que un solo hilo —y más tarde una onda de radio— pudiera llevar de día y de noche, en niebla y tormenta, con nada más que encendido y apagado."
+      ],
+      "links": [
+        { "label": "Claude Chappe", "href": "https://es.wikipedia.org/wiki/Claude_Chappe" },
+        { "label": "Telégrafo óptico", "href": "https://es.wikipedia.org/wiki/Tel%C3%A9grafo_óptico" },
+        { "label": "Semáforo", "href": "https://es.wikipedia.org/wiki/Semáforo_(comunicación)" }
+      ]
+    },
+    {
+      "title": "Morse, Vail y el telégrafo eléctrico",
+      "paragraphs": [
+        "Samuel Finley Breese Morse (1791–1872) era un pintor que se obsesionó con enviar noticias por un hilo tras una conversación sobre electromagnetismo en una travesía atlántica en 1832. No era electricista de formación. En la Universidad de Nueva York trabajó con el científico Leonard Gale, que le mostró cuántas pilas y espiras de hilo hacían falta para empujar una señal a una distancia útil.",
+        "El instrumento práctico y gran parte del código americano original llegaron de Alfred Vail, socio de Morse desde 1837. Vail perfeccionó el registrador que imprimía puntos y rayas en cinta de papel, ayudó a diseñar la palanca de envío y defendió un alfabeto compacto en el que las letras inglesas más comunes usaban patrones más cortos. Quién «inventó» el código Morse sigue discutiéndose; no se discute que el sistema público que siguió llevó el nombre de Morse y la ingeniería de Vail.",
+        "Tras años de política y leyes fallidas, Estados Unidos financió una línea experimental. El 24 de mayo de 1844 Morse, en la sala del Tribunal Supremo del Capitolio, envió a la estación de Mount Clare en Baltimore un verso bíblico elegido por Annie Ellsworth: «What hath God wrought» — «Qué ha obrado Dios». El telégrafo eléctrico tuvo un nacimiento público."
+      ],
+      "links": [
+        { "label": "Samuel Morse", "href": "https://es.wikipedia.org/wiki/Samuel_Morse" },
+        { "label": "Alfred Vail", "href": "https://es.wikipedia.org/wiki/Alfred_Vail" },
+        { "label": "Telégrafo eléctrico", "href": "https://es.wikipedia.org/wiki/Telégrafo" },
+        { "label": "What hath God wrought", "href": "https://en.wikipedia.org/wiki/What_hath_God_wrought" },
+        { "label": "Código Morse", "href": "https://es.wikipedia.org/wiki/Código_morse" }
+      ]
+    },
+    {
+      "title": "Dos códigos Morse: americano e internacional",
+      "paragraphs": [
+        "El código de aquella primera línea estadounidense no es el que enseña este entrenador. El Morse americano (a veces Morse ferroviario) usaba espacios internos en algunas letras —C, O, R, Y y Z eran «letras espaciadas»— y conservaba cifras peculiares. Sobrevivió décadas en líneas terrestres y ferrocarriles de Norteamérica porque los operadores ya lo conocían.",
+        "En 1848 Friedrich Clemens Gerke revisó el alfabeto para el telégrafo Hamburgo–Cuxhaven. Eliminó los espacios dentro del carácter, regularizó los tiempos y reformó varias letras. Las administraciones alemanas y luego europeas adoptaron variantes del esquema de Gerke. Un congreso telegráfico internacional en París (1865) y más tarde la Unión Internacional de Telecomunicaciones estandarizaron lo que hoy llamamos Morse internacional.",
+        "Si aprendes Morse hoy para radioafición, historia de la aviación o esta app, aprendes el alfabeto internacional, no el americano de 1844. Mezclarlos es una forma clásica de copiar basura."
+      ],
+      "links": [
+        { "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" },
+        { "label": "Friedrich Clemens Gerke", "href": "https://es.wikipedia.org/wiki/Friedrich_Clemens_Gerke" },
+        { "label": "Código Morse internacional", "href": "https://es.wikipedia.org/wiki/Código_morse" },
+        { "label": "Unión Internacional de Telecomunicaciones", "href": "https://es.wikipedia.org/wiki/Unión_Internacional_de_Telecomunicaciones" }
+      ]
+    },
+    {
+      "title": "Marconi y la telegrafía sin hilos",
+      "paragraphs": [
+        "Los hilos no podían alcanzar un barco. En la década de 1890 Guglielmo Marconi, apoyándose en Hertz, Lodge, Popov, Branly y otros, convirtió los experimentos de chispa en un negocio de comunicación. En 1901 anunció la letra S (tres puntos) recibida a través del Atlántico desde Poldhu, en Cornualles, hasta Signal Hill en St. John’s, Terranova: un episodio que los historiadores siguen discutiendo, pero un hito en el relato público de la radio.",
+        "Las compañías marítimas instalaron cuartos de radio. Los periódicos publicaban «marconigramas». Las marinas descubrieron que una flota podía mandarse más allá de la vista, y que el enemigo podía escuchar. El Morse, ya lengua del hilo, se volvió la lengua de las primeras radios porque los primeros transmisores eran dispositivos de encendido y apagado: chispas, luego osciladores de onda continua tecleados en CW.",
+        "Marconi y Karl Ferdinand Braun compartieron en 1909 el Premio Nobel de Física por la telegrafía sin hilos. El código en el aire seguía siendo Morse."
+      ],
+      "links": [
+        { "label": "Guglielmo Marconi", "href": "https://es.wikipedia.org/wiki/Guglielmo_Marconi" },
+        { "label": "Telegrafía sin hilos", "href": "https://es.wikipedia.org/wiki/Telegrafía_sin_hilos" },
+        { "label": "Onda continua", "href": "https://es.wikipedia.org/wiki/Onda_continua" },
+        { "label": "Invención de la radio", "href": "https://es.wikipedia.org/wiki/Invención_de_la_radio" }
+      ]
+    },
+    {
+      "title": "Socorro: CQD, SOS y el Titanic",
+      "paragraphs": [
+        "Los primeros operadores Marconi británicos usaban CQD como llamada de socorro (CQ «a todas las estaciones», D distress). En 1906 el Convenio Radiotelegráfico Internacional de Berlín adoptó SOS como señal estándar, vigente desde 1908. El patrón ···–––··· se eligió porque es simple, muy rítmico y poco parecido al texto ordinario. Es un prosigno: las tres letras se envían juntas, sin los espacios habituales. No significa «Save Our Souls» ni «Save Our Ship»; esas frases se inventaron después como reglas mnemotécnicas.",
+        "Cuando el RMS Titanic chocó con el hielo el 14–15 de abril de 1912, sus operadores enviaron CQD y SOS. El tráfico de Jack Phillips y Harold Bride —y los barcos cercanos que lo oyeron o no— se convirtió en una lección mundial sobre por qué importaban una señal común y una escucha radio de 24 horas. El desastre aceleró la regulación: horas de silencio para escuchar el socorro, guardias normalizadas y, más tarde, los convenios SOLAS.",
+        "SOS siguió siendo la señal Morse de socorro en el mar hasta que la voz y los sistemas digitales sustituyeron la obligación. Aun ahora, un SOS en Morse en una banda de radio detiene una conversación."
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://es.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://es.wikipedia.org/wiki/CQD" },
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" },
+        { "label": "Hundimiento del Titanic", "href": "https://es.wikipedia.org/wiki/Hundimiento_del_RMS_Titanic" },
+        { "label": "Jack Phillips", "href": "https://es.wikipedia.org/wiki/Jack_Phillips" }
+      ]
+    },
+    {
+      "title": "El lenguaje de los operadores: prosignos, código Q y 73",
+      "paragraphs": [
+        "El Morse en el aire no son solo letras. Los operadores pegan caracteres en prosignos: AR (fin de mensaje), SK (fin de contacto), BT (separador), KN (adelante, solo la estación nombrada). Se escriben con una barra sobre las letras para mostrar que los patrones van juntos.",
+        "El código Q nació de listas telegráficas británicas e internacionales y se volvió una jerga radio compacta: QTH para la ubicación, QRM para interferencias, QSB para desvanecimiento, QSO para un contacto. Junto con las viejas abreviaturas del hilo del Código 92 —73 «saludos», 88 «besos y abrazos»— permite que dos desconocidos mantengan una conversación estructurada con muy pocas palabras.",
+        "Esa jerga compartida es por lo que un principiante lento en España y un veterano en Japón aún pueden cerrar un contacto. El código es internacional; la cortesía es local."
+      ],
+      "links": [
+        { "label": "Código Q", "href": "https://es.wikipedia.org/wiki/Código_Q" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" },
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "Radioafición", "href": "https://es.wikipedia.org/wiki/Radioafición" }
+      ]
+    },
+    {
+      "title": "Tiempos, PARIS, Farnsworth y Koch",
+      "paragraphs": [
+        "El Morse internacional es un ritmo, no un conjunto de dibujos. Una raya dura tres puntos. El hueco dentro de un carácter es un punto; entre caracteres, tres; entre palabras, siete. Las palabras por minuto se definen con la palabra PARIS (incluido el espacio de palabra siguiente), que ocupa 50 unidades de punto. Por eso los entrenadores hablan de «PARIS WPM».",
+        "El timing Farnsworth mantiene los caracteres a plena velocidad y alarga los huecos entre ellos. Los principiantes oyen la forma real de la letra en lugar de contar puntos. El método Koch, publicado por el psicólogo alemán Ludwig Koch en los años 1930, añade caracteres de dos en dos a la velocidad objetivo y solo después amplía el alfabeto: la misma idea de las lecciones posteriores de este entrenador.",
+        "La letra más corta, E (un solo punto), y la T de una sola raya existen porque Morse y Vail (y luego Gerke) siguieron la frecuencia de las letras: los sonidos comunes reciben patrones baratos. Por eso el Morse internacional, tras unas semanas de copia, «suena» bien."
+      ],
+      "links": [
+        { "label": "Temporización del Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Timing" },
+        { "label": "Método Farnsworth", "href": "https://en.wikipedia.org/wiki/Morse_code#Farnsworth_timing" },
+        { "label": "Método Koch", "href": "https://en.wikipedia.org/wiki/Morse_code#Koch_method" },
+        { "label": "Palabras por minuto", "href": "https://es.wikipedia.org/wiki/Palabras_por_minuto" }
+      ]
+    },
+    {
+      "title": "Guerras, mujeres y el oído entrenado",
+      "paragraphs": [
+        "Las oficinas telegráficas de 1840 a 1920 emplearon a muchas mujeres como operadoras: trabajo técnico a destajo en una industria nueva. En las dos guerras mundiales los servicios militares entrenaron a miles de operadores de interceptación para copiar el Morse enemigo a velocidad. La radiogoniometría más un buen puño (el ritmo personal de quien transmite) podía identificar una unidad aunque el texto estuviera cifrado.",
+        "El Morse también viajó como luz: lámparas Aldis entre barcos, heliógrafos en campañas coloniales y, más tarde, espejos de supervivencia. Los prisioneros lo han golpeado en tuberías. Aviar, navegar, comunicar: las fuerzas aéreas enseñaron Morse mucho después de existir la fonia, porque una portadora débil tecleada en CW se copia más lejos que la voz."
+      ],
+      "links": [
+        { "label": "Telegrafía", "href": "https://es.wikipedia.org/wiki/Telegrafía" },
+        { "label": "Lámpara de señales", "href": "https://es.wikipedia.org/wiki/Lámpara_de_señales" },
+        { "label": "Heliógrafo", "href": "https://es.wikipedia.org/wiki/Heliógrafo" },
+        { "label": "Telegrafista", "href": "https://es.wikipedia.org/wiki/Telegrafista" }
+      ]
+    },
+    {
+      "title": "El ocaso oficial — y por qué el Morse no murió",
+      "paragraphs": [
+        "El 1 de febrero de 1999 la Organización Marítima Internacional acabó con la obligación del Morse en los buques cubiertos por el SMSSM (GMDSS). Las estaciones costeras firmaron SK y un último CQ. Fue una semana emotiva para los oficiales radio cuyo oficio entero era una palanca y un oído.",
+        "La radioafición mantuvo la llama. Muchos países quitaron el Morse de los exámenes de licencia (la FCC de EE. UU. en 2007), lo que redujo a los principiantes obligados a aprenderlo y, paradójicamente, dejó el CW como afición de quien lo desea. En HF, unos pocos vatios de Morse siguen ganando a cien vatios de voz cuando la ionosfera es cruel.",
+        "La Estación Espacial Internacional lleva radioafición; los operadores a bordo han enviado Morse. En 2004 la UIT añadió la @ al Morse oficial como carácter nuevo (A y C juntas) para poder enviar un correo sin improvisar. El código se sigue editando. No es historia cerrada."
+      ],
+      "links": [
+        { "label": "SMSSM / GMDSS", "href": "https://es.wikipedia.org/wiki/Sistema_Mundial_de_Socorro_y_Seguridad_Marítimos" },
+        { "label": "Organización Marítima Internacional", "href": "https://es.wikipedia.org/wiki/Organización_Marítima_Internacional" },
+        { "label": "Radioafición en la ISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" },
+        { "label": "La @ en Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Letters,_numbers,_punctuation,_prosigns_for_Morse_code_and_non-English_variants" }
+      ]
+    },
+    {
+      "title": "Otros mundos Morse: Wabun, cirílico y luz",
+      "paragraphs": [
+        "El Morse internacional se construye sobre el alfabeto latino, pero no es el único Morse. La práctica japonesa marítima y de radioafición usa el código Wabun (sílabas kana mapeadas a puntos y rayas), a menudo con un prosigno para pasar de Wabun a internacional. El ruso y otras lenguas cirílicas asignan letras extra a patrones no usados o extendidos. Existen tablas griegas y hebreas por la misma razón: el canal es el ritmo; el mapa es local.",
+        "Donde se pueda teclear una lámpara, un silbato, un clarín o una portadora, alguien ha enviado Morse. Ese es el truco duradero: temporización binaria más un cerebro humano entrenado como decodificador."
+      ],
+      "links": [
+        { "label": "Wabun code", "href": "https://en.wikipedia.org/wiki/Wabun_code" },
+        { "label": "Russian Morse code", "href": "https://en.wikipedia.org/wiki/Russian_Morse_code" },
+        { "label": "Extensiones no latinas", "href": "https://en.wikipedia.org/wiki/Morse_code#Non-Latin_extensions" }
+      ]
+    }
+  ],
+  "factsTitle": "Datos curiosos",
+  "facts": [
+    {
+      "title": "SOS no es un acrónimo",
+      "text": "Las letras S-O-S se eligieron por la forma de la señal, no por una frase. Las etimologías populares («Save Our Ship») llegaron años después. En el tráfico se envía como un solo prosigno pegado, no como tres letras.",
+      "links": [{ "label": "SOS", "href": "https://es.wikipedia.org/wiki/SOS" }]
+    },
+    {
+      "title": "El estándar de velocidad es la palabra PARIS",
+      "text": "Una «palabra» en WPM Morse es PARIS más un espacio de palabra: 50 longitudes de punto. PARIS era una referencia europea cómoda, no un eslogan patriótico. Si tu velocidad de carácter es 20 WPM con huecos largos, usas timing Farnsworth sobre ese estándar.",
+      "links": [{ "label": "PARIS y los tiempos Morse", "href": "https://en.wikipedia.org/wiki/Morse_code#Transmission" }]
+    },
+    {
+      "title": "E es un punto porque el inglés está lleno de E",
+      "text": "La idea original de Vail —y la tabla internacional de Gerke— asigna patrones cortos a las letras comunes. E es · y T es –. Letras raras como Q, X y J pagan con música más larga. Es la misma presión que moldeó las frecuencias de los tipos móviles y, más tarde, la codificación de Huffman.",
+      "links": [{ "label": "Frecuencia de las letras", "href": "https://es.wikipedia.org/wiki/Frecuencia_de_letras" }]
+    },
+    {
+      "title": "La V de la victoria es Beethoven",
+      "text": "En la Segunda Guerra Mundial la BBC usó el inicio de la Quinta sinfonía de Beethoven como señal horaria para la Europa ocupada: tres notas cortas y una larga —la V en Morse. El gesto de Churchill y la V Morse viajaron juntos como propaganda.",
+      "links": [
+        { "label": "V de la victoria", "href": "https://es.wikipedia.org/wiki/V_de_la_victoria" },
+        { "label": "Sinfonía n.º 5 (Beethoven)", "href": "https://es.wikipedia.org/wiki/Sinfonía_n.º_5_(Beethoven)" }
+      ]
+    },
+    {
+      "title": "El Morse americano tenía agujeros dentro de las letras",
+      "text": "En el Morse americano la C es dos puntos, un espacio y otro punto: un hueco interno que el Morse internacional prohíbe. Los operadores ferroviarios guardaron ese dialecto en el siglo XX. La C internacional es –·–· (como una A-N recortada).",
+      "links": [{ "label": "American Morse code", "href": "https://en.wikipedia.org/wiki/American_Morse_code" }]
+    },
+    {
+      "title": "La @ es más joven que los abuelos del iPhone",
+      "text": "En diciembre de 2004 la UIT añadió la @ al Morse para que los radioaficionados pudieran enviar correos. El patrón oficial es A y C juntas (·–·–·–). El Morse ganó un carácter en el siglo XXI.",
+      "links": [{ "label": "Arroba", "href": "https://es.wikipedia.org/wiki/Arroba_(símbolo)" }]
+    },
+    {
+      "title": "1999: los barcos pudieron callar por fin en la palanca",
+      "text": "El SMSSM sustituyó el Morse como sistema marítimo obligatorio de socorro el 1 de febrero de 1999. Algunas estaciones costeras transmitieron un último adiós en CW. Los radioaficionados aún celebran actos en 500 kHz, pero los buques SOLAS ya no necesitan un oficial Morse.",
+      "links": [{ "label": "SMSSM", "href": "https://es.wikipedia.org/wiki/Sistema_Mundial_de_Socorro_y_Seguridad_Marítimos" }]
+    },
+    {
+      "title": "En muchos países ya no hace falta Morse para la licencia de radioaficionado",
+      "text": "La FCC eliminó el requisito Morse para las licencias de EE. UU. el 23 de febrero de 2007. Otras administraciones hicieron lo mismo en torno a los cambios WRC-03 de la UIT. El tráfico CW no desapareció: se volvió cultura opcional en lugar de una verja.",
+      "links": [{ "label": "Radioafición", "href": "https://es.wikipedia.org/wiki/Radioafición" }]
+    },
+    {
+      "title": "Un buen puño es una huella dactilar",
+      "text": "Los operadores hablan del «puño»: el timing personal de quien teclea. Los servicios de interceptación en guerra usaban los puños, más la radiogoniometría, para seguir unidades que cambiaban indicativo. Aun hoy, en concursos, los amigos se reconocen antes de que el indicativo esté completo.",
+      "links": [{ "label": "Código Morse", "href": "https://es.wikipedia.org/wiki/Código_morse" }]
+    },
+    {
+      "title": "Morse desde órbita",
+      "text": "La tripulación de la Estación Espacial Internacional ha usado la radioafición de a bordo (ARISS) para hablar con escuelas —casi siempre en fonia, a veces en CW. Algunos satélites también han balizado telemetría en Morse. El código que salió de Baltimore en 1844 se ha copiado desde órbita baja.",
+      "links": [{ "label": "ARISS", "href": "https://en.wikipedia.org/wiki/Amateur_Radio_on_the_International_Space_Station" }]
+    }
+  ],
+  "acronymsTitle": "Acrónimos Morse habituales",
+  "acronymsIntro": "Las siglas de abajo son lo que de verdad se oye en CW: llamadas de socorro, prosignos de procedimiento (enviados como un solo carácter pegado), códigos Q usados en Morse de aficionado y viejas abreviaturas del hilo que los operadores siguen tecleando. Los significados son los de uso en el aire, no un glosario legal de la UIT.",
+  "acronymGroups": [
+    {
+      "title": "Socorro",
+      "intro": "Son señales de emergencia, no jerga casual. SOS es un prosigno: las letras van juntas, sin espacios entre caracteres.",
+      "items": [
+        { "code": "SOS", "meaning": "Señal internacional de socorro en Morse (···–––···). No es un acrónimo; el patrón se eligió por su ritmo inconfundible, no por «Save Our Ship»." },
+        { "code": "CQD", "meaning": "Antigua llamada de socorro Marconi (CQ «a todas las estaciones» + D distress). Se usó antes de que SOS fuera el estándar, y el Titanic aún la envió junto con SOS." }
+      ],
+      "links": [
+        { "label": "SOS", "href": "https://es.wikipedia.org/wiki/SOS" },
+        { "label": "CQD", "href": "https://es.wikipedia.org/wiki/CQD" },
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Prosignos",
+      "intro": "Los prosignos son señales de procedimiento. Se escriben con una barra sobre las letras para indicar que se envían como un solo carácter, sin el hueco habitual entre letras.",
+      "items": [
+        { "code": "AR", "meaning": "Fin de mensaje. El mismo patrón Morse que el signo más (+)." },
+        { "code": "SK", "meaning": "Fin de contacto; cierre del QSO. Frase relacionada: «silent key» para un operador fallecido." },
+        { "code": "BT", "meaning": "Pausa / separador entre partes de un mensaje. El mismo patrón que el signo igual (=)." },
+        { "code": "KN", "meaning": "A usted — solo la estación nombrada. Invita a una estación concreta, no a cualquiera que escuche." },
+        { "code": "BK", "meaning": "Break-in: invitación a transmitir, o «a ti». También se usa como abreviatura tecleada." },
+        { "code": "CL", "meaning": "Cierre de estación; se sale del aire." }
+      ],
+      "links": [
+        { "label": "Prosigns for Morse code", "href": "https://en.wikipedia.org/wiki/Prosigns_for_Morse_code" }
+      ]
+    },
+    {
+      "title": "Códigos Q en CW",
+      "intro": "Los códigos Q son preguntas o afirmaciones de tres letras. CQ no es un código Q, pero es la llamada general que se oye sin parar en Morse.",
+      "items": [
+        { "code": "CQ", "meaning": "Llamada general a cualquier estación. No es un código Q, pero es el modo habitual de abrir un contacto CW." },
+        { "code": "QTH", "meaning": "Ubicación; «mi QTH es…» nombra el lugar desde el que se opera." },
+        { "code": "QSO", "meaning": "Un contacto de radio; un intercambio completado con otra estación." },
+        { "code": "QRS", "meaning": "Transmitir más despacio." },
+        { "code": "QRQ", "meaning": "Transmitir más rápido." },
+        { "code": "QRM", "meaning": "Interferencia artificial (otras estaciones, ruido eléctrico de aparatos)." },
+        { "code": "QRN", "meaning": "Ruido natural / atmosférico (estática, tormentas)." },
+        { "code": "QSB", "meaning": "Desvanecimiento; la señal sube y baja." },
+        { "code": "QSL", "meaning": "Acuse de recibo. También la tarjeta que confirma el contacto." },
+        { "code": "QRT", "meaning": "Dejar de transmitir; estoy cerrando." },
+        { "code": "QRP", "meaning": "Bajar potencia; también «operación en baja potencia» como estilo." },
+        { "code": "QRO", "meaning": "Subir potencia." },
+        { "code": "QRX", "meaning": "Espere; le llamaré de nuevo." },
+        { "code": "QRZ", "meaning": "¿Quién me llama?" },
+        { "code": "QRL", "meaning": "¿Está ocupada esta frecuencia? La comprobación educada antes de llamar CQ." },
+        { "code": "QSY", "meaning": "Cambiar de frecuencia." }
+      ],
+      "links": [
+        { "label": "Código Q", "href": "https://es.wikipedia.org/wiki/Código_Q" }
+      ]
+    },
+    {
+      "title": "Abreviaturas del hilo y de radioafición",
+      "intro": "Vienen de la telegrafía por hilo (incluido el Código 92) y del Morse de aficionado. Se teclean como letras sueltas, no pegadas como los prosignos.",
+      "items": [
+        { "code": "73", "meaning": "Saludos. Del Código 92 del siglo XIX; la despedida habitual en CW." },
+        { "code": "88", "meaning": "Besos y abrazos. También del Código 92; más personal que 73." },
+        { "code": "DE", "meaning": "De / aquí. Se coloca entre indicativos: EA1ABC DE W1XYZ." },
+        { "code": "ES", "meaning": "Y (and)." },
+        { "code": "UR", "meaning": "Tu / your." },
+        { "code": "OM", "meaning": "Old man — operador masculino. Amistoso, no un insulto por la edad." },
+        { "code": "YL", "meaning": "Young lady — operadora." },
+        { "code": "XYL", "meaning": "Esposa («ex-young lady»)." },
+        { "code": "WX", "meaning": "Tiempo meteorológico." },
+        { "code": "PSE", "meaning": "Por favor." },
+        { "code": "TNX", "meaning": "Gracias. También es común TU («thank you»)." },
+        { "code": "FB", "meaning": "Fine business — excelente, bien hecho, un contacto que ha ido bien." },
+        { "code": "GM/GA/GE", "meaning": "Buenos días / buenas tardes / buenas noches." },
+        { "code": "HW", "meaning": "How — como en HW CPY? («¿cómo copias?»)." },
+        { "code": "BK", "meaning": "Break — adelante, o interrumpo. La misma idea que el prosigno BK, tecleado como dos letras." }
+      ],
+      "links": [
+        { "label": "Morse code abbreviations", "href": "https://en.wikipedia.org/wiki/Morse_code_abbreviations" },
+        { "label": "92 Code", "href": "https://en.wikipedia.org/wiki/92_Code" }
+      ]
+    }
+  ]
+}

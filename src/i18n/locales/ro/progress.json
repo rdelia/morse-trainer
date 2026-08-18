@@ -1,0 +1,12 @@
+{
+  "title": "Progres",
+  "subtitle": "Acuratețe, sesiuni și caractere slabe.",
+  "mastered": "Caractere sigure",
+  "weak": "De îmbunătățit",
+  "recent": "Sesiuni recente",
+  "noSessions": "Încă nicio sesiune: termină o lecție sau un exercițiu.",
+  "lessonsDone": "Lecții finalizate",
+  "overall": "Acuratețe generală (EWMA)",
+  "mode": "Mod",
+  "charsHeard": "Caractere ascultate"
+}

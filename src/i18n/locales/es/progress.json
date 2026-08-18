@@ -1,0 +1,12 @@
+{
+  "title": "Progreso",
+  "subtitle": "Precisión, sesiones y caracteres débiles.",
+  "mastered": "Caracteres sólidos",
+  "weak": "A mejorar",
+  "recent": "Sesiones recientes",
+  "noSessions": "Aún no hay sesiones — completa una lección o práctica.",
+  "lessonsDone": "Lecciones completadas",
+  "overall": "Precisión global (EWMA)",
+  "mode": "Modo",
+  "charsHeard": "Caracteres oídos"
+}

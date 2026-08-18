@@ -1,0 +1,32 @@
+{
+  "title": "Practicar",
+  "subtitle": "Ejercicios libres fuera de la ruta.",
+  "modes": {
+    "groups": "Grupos aleatorios",
+    "groupsDesc": "Grupos Koch clásicos de 5 caracteres.",
+    "words": "Palabras",
+    "wordsDesc": "Palabras del diccionario de tu idioma.",
+    "callsigns": "Indicativos",
+    "callsignsDesc": "Indicativos de aficionado realistas.",
+    "qso": "QSO",
+    "qsoDesc": "Copia un intercambio corto.",
+    "warmup": "Calentamiento",
+    "warmupDesc": "Más peso a tus caracteres débiles.",
+    "headcopy": "Head copy",
+    "headcopyDesc": "Escucha una palabra completa y luego escribe."
+  },
+  "qsoNotes": {
+    "basic": "CQ estándar, informe, nombre/QTH y 73 SK.",
+    "short": "QSO mínimo en tres líneas."
+  },
+  "reveal": "Patrón: {{pattern}}",
+  "revealSolution": "Mostrar solución",
+  "solution": "Solución",
+  "transcription": "Morse",
+  "target": "Objetivo",
+  "heard": "Copiaste",
+  "startSession": "Iniciar sesión",
+  "nextSession": "Siguiente sesión",
+  "groupsOf": "{{n}} grupos de 5",
+  "line": "Línea {{n}}"
+}
