@@ -102,8 +102,8 @@ export const MNEMONIC_MARKS: Record<string, MnemonicMark[]> = {
   // .--.  dit at the top of the stem, dahs on both bars of the bowl, dit at the foot
   P: [
     { kind: 'dot', cx: 33, cy: 35 },
-    hDash(39, 34, 24),
-    hDash(39, 68, 24),
+    hDash(39, 37, 24),
+    hDash(35, 64, 30),
     { kind: 'dot', cx: 33, cy: 92 },
   ],
   // --.-  dashes flow down the left of the ring into the dot and the tail
