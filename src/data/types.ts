@@ -10,6 +10,7 @@ export interface AppSettings {
   volume: number
   showMorseAfterAnswer: boolean
   devMode: boolean
+  advancedSettings: boolean
 }
 
 export interface Profile {
@@ -75,6 +76,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   volume: 0.7,
   showMorseAfterAnswer: true,
   devMode: false,
+  advancedSettings: false,
 }
 
 export function newId(): string {

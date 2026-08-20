@@ -7,6 +7,14 @@ import { progressRepo } from '../data/idbProgressRepository'
 import { useMorsePlayer } from '../hooks/useMorsePlayer'
 import type { ProgressSnapshot } from '../data/types'
 
+const SPEED_PRESETS = {
+  slow: { characterWpm: 18, effectiveWpm: 5 },
+  medium: { characterWpm: 18, effectiveWpm: 10 },
+  fast: { characterWpm: 20, effectiveWpm: 18 },
+} as const
+
+type SpeedPreset = keyof typeof SPEED_PRESETS
+
 export function SettingsPage() {
   const { t } = useTranslation('settings')
   const settings = useSettingsStore((s) => s.settings)
@@ -15,6 +23,13 @@ export function SettingsPage() {
   const { playText } = useMorsePlayer()
   const fileRef = useRef<HTMLInputElement>(null)
   const [message, setMessage] = useState<string | null>(null)
+  const advanced = settings.advancedSettings
+
+  const activePreset = (Object.keys(SPEED_PRESETS) as SpeedPreset[]).find(
+    (key) =>
+      SPEED_PRESETS[key].characterWpm === settings.characterWpm &&
+      SPEED_PRESETS[key].effectiveWpm === settings.effectiveWpm,
+  )
 
   return (
     <div>
@@ -30,50 +45,85 @@ export function SettingsPage() {
 
       <div className="field">
         <label>
-          {t('characterWpm')}: {settings.characterWpm}
+          <input
+            type="checkbox"
+            checked={advanced}
+            onChange={(e) =>
+              void setSettings({ advancedSettings: e.target.checked })
+            }
+          />{' '}
+          {t('advancedSettings')}
         </label>
-        <input
-          type="range"
-          min={12}
-          max={40}
-          value={settings.characterWpm}
-          onChange={(e) =>
-            void setSettings({ characterWpm: Number(e.target.value) })
-          }
-        />
+        <p className="muted">{t('advancedSettingsHint')}</p>
       </div>
 
-      <div className="field">
-        <label>
-          {t('effectiveWpm')}: {settings.effectiveWpm}
-        </label>
-        <input
-          type="range"
-          min={5}
-          max={settings.characterWpm}
-          value={Math.min(settings.effectiveWpm, settings.characterWpm)}
-          onChange={(e) =>
-            void setSettings({ effectiveWpm: Number(e.target.value) })
-          }
-        />
-        <p className="muted">{t('farnsworthHint')}</p>
-      </div>
+      {advanced ? (
+        <>
+          <div className="field">
+            <label>
+              {t('characterWpm')}: {settings.characterWpm}
+            </label>
+            <input
+              type="range"
+              min={12}
+              max={40}
+              value={settings.characterWpm}
+              onChange={(e) =>
+                void setSettings({ characterWpm: Number(e.target.value) })
+              }
+            />
+          </div>
 
-      <div className="field">
-        <label>
-          {t('frequency')}: {settings.frequencyHz} Hz
-        </label>
-        <input
-          type="range"
-          min={400}
-          max={900}
-          step={10}
-          value={settings.frequencyHz}
-          onChange={(e) =>
-            void setSettings({ frequencyHz: Number(e.target.value) })
-          }
-        />
-      </div>
+          <div className="field">
+            <label>
+              {t('effectiveWpm')}: {settings.effectiveWpm}
+            </label>
+            <input
+              type="range"
+              min={5}
+              max={settings.characterWpm}
+              value={Math.min(settings.effectiveWpm, settings.characterWpm)}
+              onChange={(e) =>
+                void setSettings({ effectiveWpm: Number(e.target.value) })
+              }
+            />
+            <p className="muted">{t('farnsworthHint')}</p>
+          </div>
+
+          <div className="field">
+            <label>
+              {t('frequency')}: {settings.frequencyHz} Hz
+            </label>
+            <input
+              type="range"
+              min={400}
+              max={900}
+              step={10}
+              value={settings.frequencyHz}
+              onChange={(e) =>
+                void setSettings({ frequencyHz: Number(e.target.value) })
+              }
+            />
+          </div>
+        </>
+      ) : (
+        <div className="field">
+          <label>{t('speed')}</label>
+          <div className="cta-row">
+            {(Object.keys(SPEED_PRESETS) as SpeedPreset[]).map((key) => (
+              <button
+                key={key}
+                type="button"
+                className={activePreset === key ? 'btn btn--primary' : 'btn'}
+                onClick={() => void setSettings(SPEED_PRESETS[key])}
+              >
+                {t(`speed_${key}`)}
+              </button>
+            ))}
+          </div>
+          <p className="muted">{t('speedHint')}</p>
+        </div>
+      )}
 
       <div className="field">
         <label>
@@ -102,17 +152,19 @@ export function SettingsPage() {
         </label>
       </div>
 
-      <div className="field">
-        <label>
-          <input
-            type="checkbox"
-            checked={settings.devMode}
-            onChange={(e) => void setSettings({ devMode: e.target.checked })}
-          />{' '}
-          {t('devMode')}
-        </label>
-        <p className="muted">{t('devModeHint')}</p>
-      </div>
+      {advanced ? (
+        <div className="field">
+          <label>
+            <input
+              type="checkbox"
+              checked={settings.devMode}
+              onChange={(e) => void setSettings({ devMode: e.target.checked })}
+            />{' '}
+            {t('devMode')}
+          </label>
+          <p className="muted">{t('devModeHint')}</p>
+        </div>
+      ) : null}
 
       <div className="cta-row">
         <button
