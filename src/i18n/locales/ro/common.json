@@ -13,6 +13,14 @@
   },
   "continue": "Continuă de unde ai rămas",
   "start": "Începe să înveți",
+  "onboard": {
+    "hearTitle": "Ascultă",
+    "hearBody": "Fiecare literă este un ritm de puncte și linii — ți-l redăm noi.",
+    "knowTitle": "Recunoaște",
+    "knowBody": "Lecții scurte te învață să recunoști fiecare sunet după ureche, literă cu literă.",
+    "sendTitle": "Transmite",
+    "sendBody": "Transmite tu însuți codul cu bara de spațiu, mouse-ul sau atingerea."
+  },
   "play": "Ascultă",
   "replay": "Ascultă din nou",
   "stop": "Oprește",

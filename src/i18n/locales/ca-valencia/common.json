@@ -13,6 +13,14 @@
   },
   "continue": "Continua on ho vas deixar",
   "start": "Comença a aprendre",
+  "onboard": {
+    "hearTitle": "Escolta-ho",
+    "hearBody": "Cada lletra és un ritme de punts i ratlles — te'l fem sentir nosaltres.",
+    "knowTitle": "Reconeix-ho",
+    "knowBody": "Lliçons curtes t'ensenyen a reconéixer cada so d'oïda, lletra a lletra.",
+    "sendTitle": "Transmet-ho",
+    "sendBody": "Transmet tu mateix el codi amb la barra espaiadora, el ratolí o el tacte."
+  },
   "play": "Escolta",
   "replay": "Torna a escoltar",
   "stop": "Para",

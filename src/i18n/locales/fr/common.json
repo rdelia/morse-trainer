@@ -13,6 +13,14 @@
   },
   "continue": "Reprendre où vous étiez",
   "start": "Commencer à apprendre",
+  "onboard": {
+    "hearTitle": "Écoutez",
+    "hearBody": "Chaque lettre est un rythme de points et de traits — on vous le fait entendre.",
+    "knowTitle": "Reconnaissez",
+    "knowBody": "De courtes leçons vous apprennent à reconnaître chaque son à l'oreille, lettre par lettre.",
+    "sendTitle": "Émettez",
+    "sendBody": "Transmettez le code vous-même avec la barre d'espace, la souris ou le toucher."
+  },
   "play": "Écouter",
   "replay": "Réécouter",
   "stop": "Stop",

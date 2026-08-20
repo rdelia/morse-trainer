@@ -163,6 +163,53 @@ p {
   margin-top: 1.5rem;
 }
 
+.onboard-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.75rem;
+  max-width: 44rem;
+}
+
+.onboard-step {
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.onboard-step__num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  margin-bottom: 0.5rem;
+  border-radius: 50%;
+  background: var(--amber);
+  color: #1a1c1e;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.onboard-step h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.onboard-step p {
+  margin: 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+@media (max-width: 640px) {
+  .onboard-steps {
+    grid-template-columns: 1fr;
+  }
+}
+
 .learn-restart {
   display: flex;
   justify-content: center;

@@ -13,6 +13,14 @@
   },
   "continue": "Continue where you left off",
   "start": "Start learning",
+  "onboard": {
+    "hearTitle": "Hear it",
+    "hearBody": "Every letter is a rhythm of dots and dashes — we play it for you.",
+    "knowTitle": "Know it",
+    "knowBody": "Short lessons teach you to recognize each sound by ear, one letter at a time.",
+    "sendTitle": "Send it",
+    "sendBody": "Tap out the code yourself with the spacebar, mouse, or touch."
+  },
   "play": "Play",
   "replay": "Replay",
   "stop": "Stop",

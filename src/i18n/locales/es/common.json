@@ -13,6 +13,14 @@
   },
   "continue": "Continuar donde lo dejaste",
   "start": "Empezar a aprender",
+  "onboard": {
+    "hearTitle": "Escúchalo",
+    "hearBody": "Cada letra es un ritmo de puntos y rayas — nosotros te lo reproducimos.",
+    "knowTitle": "Reconócelo",
+    "knowBody": "Lecciones cortas te enseñan a reconocer cada sonido de oído, letra a letra.",
+    "sendTitle": "Transmítelo",
+    "sendBody": "Transmite tú mismo el código con la barra espaciadora, el ratón o el tacto."
+  },
   "play": "Reproducir",
   "replay": "Repetir",
   "stop": "Parar",
