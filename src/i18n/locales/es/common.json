@@ -49,5 +49,30 @@
   "dot": "punto",
   "dash": "raya",
   "menuOpen": "Abrir menú",
-  "menuClose": "Cerrar menú"
+  "menuClose": "Cerrar menú",
+  "tour": {
+    "title": "Recorrido rápido",
+    "skip": "Saltar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "done": "Entendido",
+    "learnTitle": "Aprender",
+    "learnBody": "Un recorrido de lecciones en orden Koch — pocas letras nuevas cada vez, con un cuestionario después de cada una.",
+    "practiceTitle": "Practicar",
+    "practiceBody": "Ejercicios libres fuera del recorrido: grupos aleatorios, palabras, indicativos, QSO y un calentamiento centrado en las letras que más fallas.",
+    "sendTitle": "Transmitir",
+    "sendBody": "Transmite tú el Morse con la barra espaciadora, el ratón o el tacto — tu propio ritmo se decodifica de vuelta a texto.",
+    "progressTitle": "Progreso",
+    "progressBody": "Precisión por carácter e historial de sesiones, para ver exactamente qué necesita más práctica.",
+    "referenceTitle": "Referencia",
+    "referenceBody": "Todo el alfabeto de un vistazo, incluida una tabla mnemotécnica que dibuja los puntos y rayas de cada letra sobre su propia forma.",
+    "wikiTitle": "Wiki",
+    "wikiBody": "La historia del código Morse, señales de socorro, prosignos y códigos Q — toca cualquiera para escucharlo.",
+    "settingsTitle": "Ajustes",
+    "settingsBody": "Sencillos por defecto. Activa los ajustes avanzados para un control fino de velocidad y tono, cambia de idioma o haz una copia de seguridad de tu progreso."
+  },
+  "installHint": "Instala Morse Trainer en tu dispositivo para un acceso rápido, incluso sin conexión.",
+  "installIOSHint": "Añade Morse Trainer a tu pantalla de inicio: toca el icono de compartir y luego \"Añadir a pantalla de inicio\".",
+  "installAction": "Instalar",
+  "installDismiss": "Ahora no"
 }

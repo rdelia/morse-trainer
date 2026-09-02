@@ -49,5 +49,30 @@
   "dot": "punct",
   "dash": "linie",
   "menuOpen": "Deschide meniul",
-  "menuClose": "Închide meniul"
+  "menuClose": "Închide meniul",
+  "tour": {
+    "title": "Tur rapid",
+    "skip": "Sari peste",
+    "back": "Înapoi",
+    "next": "Următorul",
+    "done": "Am înțeles",
+    "learnTitle": "Învață",
+    "learnBody": "Un traseu de lecții în ordine Koch — câteva litere noi pe rând, cu un test după fiecare.",
+    "practiceTitle": "Exersează",
+    "practiceBody": "Exerciții libere în afara traseului: grupuri aleatorii, cuvinte, indicative, QSO și o încălzire orientată spre literele pe care le greșești cel mai des.",
+    "sendTitle": "Transmite",
+    "sendBody": "Transmite tu Morse cu bara de spațiu, mouse-ul sau atingerea — propriul tău ritm este decodificat înapoi în text.",
+    "progressTitle": "Progres",
+    "progressBody": "Acuratețe pe fiecare caracter și istoricul sesiunilor, ca să vezi exact ce mai are nevoie de exercițiu.",
+    "referenceTitle": "Referință",
+    "referenceBody": "Tot alfabetul dintr-o privire, inclusiv un tabel mnemonic care desenează punctele și liniile fiecărei litere direct pe forma ei.",
+    "wikiTitle": "Wiki",
+    "wikiBody": "Istoria codului Morse, semnale de pericol, prosemne și coduri Q — atinge oricare pentru a-l asculta.",
+    "settingsTitle": "Setări",
+    "settingsBody": "Simple implicit. Activează setările avansate pentru control fin al vitezei și tonului, schimbă limba sau salvează o copie a progresului."
+  },
+  "installHint": "Instalează Morse Trainer pe dispozitivul tău pentru acces rapid, chiar și offline.",
+  "installIOSHint": "Adaugă Morse Trainer pe ecranul principal: atinge pictograma de distribuire, apoi \"Adaugă pe ecranul principal\".",
+  "installAction": "Instalează",
+  "installDismiss": "Nu acum"
 }

@@ -11,6 +11,7 @@ export interface AppSettings {
   showMorseAfterAnswer: boolean
   devMode: boolean
   advancedSettings: boolean
+  tourSeen: boolean
 }
 
 export interface Profile {
@@ -77,6 +78,7 @@ export const DEFAULT_SETTINGS: AppSettings = {
   showMorseAfterAnswer: true,
   devMode: false,
   advancedSettings: false,
+  tourSeen: false,
 }
 
 export function newId(): string {

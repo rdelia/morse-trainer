@@ -49,5 +49,30 @@
   "dot": "dot",
   "dash": "dash",
   "menuOpen": "Open menu",
-  "menuClose": "Close menu"
+  "menuClose": "Close menu",
+  "tour": {
+    "title": "Quick tour",
+    "skip": "Skip",
+    "back": "Back",
+    "next": "Next",
+    "done": "Got it",
+    "learnTitle": "Learn",
+    "learnBody": "A Koch-ordered lesson path — a few new letters at a time, with a quiz after each.",
+    "practiceTitle": "Practice",
+    "practiceBody": "Free drills outside the lesson path: random groups, words, callsigns, QSOs, and a warm-up that targets the letters you keep missing.",
+    "sendTitle": "Send",
+    "sendBody": "Key Morse yourself with the spacebar, mouse, or touch — your own timing gets decoded back to text.",
+    "progressTitle": "Progress",
+    "progressBody": "Per-character accuracy and session history, so you can see exactly what needs more practice.",
+    "referenceTitle": "Reference",
+    "referenceBody": "The full alphabet at a glance, including a mnemonic table that draws each letter's dots and dashes right onto its shape.",
+    "wikiTitle": "Wiki",
+    "wikiBody": "The history of Morse code, distress signals, prosigns, and Q-codes — tap any of them to hear it.",
+    "settingsTitle": "Settings",
+    "settingsBody": "Simple by default. Turn on Advanced settings for fine-grained speed and tone controls, switch language, or back up your progress."
+  },
+  "installHint": "Install Morse Trainer on your device for quick, offline access.",
+  "installIOSHint": "Add Morse Trainer to your Home Screen: tap the Share icon, then \"Add to Home Screen\".",
+  "installAction": "Install",
+  "installDismiss": "Not now"
 }

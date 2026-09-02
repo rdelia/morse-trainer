@@ -2,6 +2,9 @@ import { useEffect, useId, useState } from 'react'
 import { NavLink, Outlet, useLocation } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { LanguageSwitcher } from './LanguageSwitcher'
+import { OnboardingTour } from './OnboardingTour'
+import { InstallPrompt } from './InstallPrompt'
+import { useSettingsStore } from '../stores/settingsStore'
 import './Layout.css'
 
 const LINKS = [
@@ -21,6 +24,8 @@ export function Layout() {
   const [menuOpen, setMenuOpen] = useState(false)
   const menuId = useId()
   const isHome = location.pathname === '/'
+  const tourSeen = useSettingsStore((s) => s.settings.tourSeen)
+  const settingsHydrated = useSettingsStore((s) => s.hydrated)
 
   useEffect(() => {
     setMenuOpen(false)
@@ -105,6 +110,9 @@ export function Layout() {
       <main className="app-main">
         <Outlet />
       </main>
+
+      {settingsHydrated && !tourSeen ? <OnboardingTour /> : null}
+      <InstallPrompt />
     </div>
   )
 }

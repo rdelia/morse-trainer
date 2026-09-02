@@ -49,5 +49,30 @@
   "dot": "punt",
   "dash": "ratlla",
   "menuOpen": "Obri el menú",
-  "menuClose": "Tanca el menú"
+  "menuClose": "Tanca el menú",
+  "tour": {
+    "title": "Recorregut ràpid",
+    "skip": "Salta",
+    "back": "Arrere",
+    "next": "Següent",
+    "done": "Entés",
+    "learnTitle": "Aprendre",
+    "learnBody": "Un recorregut de lliçons en ordre Koch — poques lletres noves cada vegada, amb un qüestionari després de cada una.",
+    "practiceTitle": "Practicar",
+    "practiceBody": "Exercicis lliures fora del recorregut: grups aleatoris, paraules, indicatius, QSO i un escalfament centrat en les lletres que més falles.",
+    "sendTitle": "Transmetre",
+    "sendBody": "Transmet tu el Morse amb la barra espaiadora, el ratolí o el tacte — el teu propi ritme es descodifica en text.",
+    "progressTitle": "Progrés",
+    "progressBody": "Precisió per caràcter i historial de sessions, per a veure exactament què necessita més pràctica.",
+    "referenceTitle": "Referència",
+    "referenceBody": "Tot l'alfabet d'una ullada, incloent una taula mnemotècnica que dibuixa els punts i ratlles de cada lletra sobre la seua pròpia forma.",
+    "wikiTitle": "Wiki",
+    "wikiBody": "La història del codi Morse, senyals de socors, prosignes i codis Q — toca'n un per a escoltar-lo.",
+    "settingsTitle": "Ajustos",
+    "settingsBody": "Senzills per defecte. Activa els ajustos avançats per a un control precís de velocitat i to, canvia d'idioma o fes una còpia de seguretat del teu progrés."
+  },
+  "installHint": "Instal·la Morse Trainer al teu dispositiu per a un accés ràpid, fins i tot sense connexió.",
+  "installIOSHint": "Afig Morse Trainer a la pantalla d'inici: toca la icona de compartir i després \"Afig a la pantalla d'inici\".",
+  "installAction": "Instal·la",
+  "installDismiss": "Ara no"
 }
