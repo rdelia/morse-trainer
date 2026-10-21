@@ -2,6 +2,7 @@
   "title": "Setări",
   "subtitle": "Sunet, viteză, limbă și copii de siguranță.",
   "locale": "Limbă",
+  "installTitle": "Instalează aplicația",
   "advancedSettings": "Setări avansate",
   "advancedSettingsHint": "Activează pentru control fin al vitezei, tonului și deblocărilor. Lasă dezactivat pentru versiunea simplă.",
   "speed": "Viteză",

@@ -2,6 +2,7 @@
   "title": "Impostazioni",
   "subtitle": "Audio, velocità, lingua e backup.",
   "locale": "Lingua",
+  "installTitle": "Installa l'app",
   "advancedSettings": "Impostazioni avanzate",
   "advancedSettingsHint": "Attivale per regolare in dettaglio velocità, tono e sblocchi. Lasciale disattivate per la versione semplice.",
   "speed": "Velocità",

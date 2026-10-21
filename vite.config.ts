@@ -52,14 +52,24 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.png', 'favicon-192.png', 'favicon-512.png'],
       manifest: {
+        // Stable identity: lets browsers recognise this as the same app even
+        // if start_url ever changes, instead of installing a duplicate.
+        id: base,
         name: 'Morse Trainer',
         short_name: 'Morse Trainer',
         description: 'Learn Morse code from zero to hero',
+        categories: ['education'],
         theme_color: '#1a1c1e',
         background_color: '#1a1c1e',
         display: 'standalone',
         start_url: base,
         scope: base,
+        // Long-press the installed icon for direct jumps (Android, Windows, macOS).
+        shortcuts: [
+          { name: 'Learn', url: `${base}learn`, icons: [{ src: 'favicon-192.png', sizes: '192x192', type: 'image/png' }] },
+          { name: 'Practice', url: `${base}practice`, icons: [{ src: 'favicon-192.png', sizes: '192x192', type: 'image/png' }] },
+          { name: 'Send', url: `${base}send`, icons: [{ src: 'favicon-192.png', sizes: '192x192', type: 'image/png' }] },
+        ],
         icons: [
           {
             src: 'favicon-192.png',

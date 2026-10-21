@@ -5,6 +5,7 @@ import { useSettingsStore } from '../stores/settingsStore'
 import { useProgressStore } from '../stores/progressStore'
 import { progressRepo } from '../data/idbProgressRepository'
 import { useMorsePlayer } from '../hooks/useMorsePlayer'
+import { useInstallState, useInstallStore } from '../installPrompt'
 import type { ProgressSnapshot } from '../data/types'
 
 const SPEED_PRESETS = {
@@ -24,6 +25,8 @@ export function SettingsPage() {
   const fileRef = useRef<HTMLInputElement>(null)
   const [message, setMessage] = useState<string | null>(null)
   const advanced = settings.advancedSettings
+  const { available: canInstall, ios } = useInstallState()
+  const install = useInstallStore((s) => s.install)
 
   const activePreset = (Object.keys(SPEED_PRESETS) as SpeedPreset[]).find(
     (key) =>
@@ -175,6 +178,20 @@ export function SettingsPage() {
           {t('testTone')}
         </button>
       </div>
+
+      {canInstall ? (
+        <>
+          <h2 style={{ marginTop: '2rem' }}>{t('installTitle')}</h2>
+          <p className="muted">{ios ? t('common:installIOSHint') : t('common:installHint')}</p>
+          {!ios ? (
+            <div className="cta-row">
+              <button type="button" className="btn btn--primary" onClick={() => void install()}>
+                {t('common:installAction')}
+              </button>
+            </div>
+          ) : null}
+        </>
+      ) : null}
 
       <h2 style={{ marginTop: '2rem' }}>Backup</h2>
       <div className="cta-row">

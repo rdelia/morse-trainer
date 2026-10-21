@@ -2,6 +2,7 @@
   "title": "Settings",
   "subtitle": "Audio, speed, language, and backup.",
   "locale": "Language",
+  "installTitle": "Install the app",
   "advancedSettings": "Advanced settings",
   "advancedSettingsHint": "Turn this on for fine-grained speed, tone and unlock controls. Leave it off for the simple version.",
   "speed": "Speed",

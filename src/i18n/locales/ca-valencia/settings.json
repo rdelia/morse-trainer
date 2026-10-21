@@ -2,6 +2,7 @@
   "title": "Ajustos",
   "subtitle": "Àudio, velocitat, idioma i còpia de seguretat.",
   "locale": "Idioma",
+  "installTitle": "Instal·la l'app",
   "advancedSettings": "Ajustos avançats",
   "advancedSettingsHint": "Activa'ls per a ajustar amb precisió la velocitat, el to i els desbloquejos. Deixa'ls apagats per a la versió senzilla.",
   "speed": "Velocitat",

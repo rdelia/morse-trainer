@@ -2,6 +2,7 @@
   "title": "Réglages",
   "subtitle": "Audio, vitesse, langue et sauvegarde.",
   "locale": "Langue",
+  "installTitle": "Installer l'application",
   "advancedSettings": "Réglages avancés",
   "advancedSettingsHint": "Activez pour régler finement la vitesse, le ton et les déblocages. Laissez désactivé pour la version simple.",
   "speed": "Vitesse",
